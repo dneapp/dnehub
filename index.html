@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developer Profile | Linktree</title>
+    <!-- Tailwind CSS CDN (ဒီဇိုင်းအလွယ်တကူဖန်တီးဖို့ CSS Library ကို လှမ်းသုံးထားတာပါ) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- FontAwesome Icons (ပုံစံအမျိုးမျိုးသော Icon ပုံလေးတွေသုံးဖို့ပါ) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
+        
+        /* တစ်မျက်နှာလုံးရဲ့ နောက်ခံပုံစံနဲ့ ဖောင့်သတ်မှတ်ချက် */
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background: radial-gradient(circle at 50% 10%, #1e1b4b 0%, #0f172a 50%, #020617 100%);
+            min-height: 100vh;
+        }
+
+        /* ဖန်သားပြင်လို ပုံစံဖော်ထားတဲ့ Glassmorphism ကတ်ပြားဒီဇိုင်း */
+        .glass-card {
+            background: rgba(30, 41, 59, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        /* လင့်ခ်ခလုတ်တွေကို Mouse တင်လိုက်ရင် အပေါ်နည်းနည်းမြောက်သွားမယ့် Animation effect */
+        .link-btn {
+            transition: all 0.3s ease;
+        }
+        .link-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.4);
+            border-color: rgba(99, 102, 241, 0.5);
+        }
+    </style>
+</head>
+<body class="flex items-center justify-center p-4 sm:p-8">
+
+    <!-- အဓိက Container (ဖုန်းမျက်နှာပြင်အရွယ်အစား အနေအတော်လေးနဲ့ အလယ်တည့်တည့်မှာ ပေါ်နေစေရန်) -->
+    <div class="w-full max-w-md mx-auto space-y-6">
+        
+        <!-- [၁] ပရိုဖိုင် အချက်အလက်ပြမည့် အပိုင်း (Profile Header Section) -->
+        <div class="glass-card rounded-3xl p-6 text-center shadow-2xl relative overflow-hidden">
+            <!-- နောက်ခံ အရောင်တောက်နေတဲ့ Glow Effect လေးတွေ -->
+            <div class="absolute -top-24 -right-24 w-48 h-48 bg-indigo-500/20 rounded-full blur-3xl pointer-events-none"></div>
+            <div class="absolute -bottom-24 -left-24 w-48 h-48 bg-purple-500/20 rounded-full blur-3xl pointer-events-none"></div>
+
+            <!-- ပရိုဖိုင် ပုံ (Avatar) -->
+            <div class="relative w-28 h-28 mx-auto mb-4">
+                <div class="absolute inset-0 rounded-full bg-gradient-to-tr from-indigo-500 to-purple-500 animate-pulse"></div>
+                <!-- ကိုယ့်ရဲ့ ပုံ URL ကို ဒီနေရာမှာ လဲထည့်လို့ရပါတယ် -->
+                <img src="https://i.pinimg.com/736x/bd/e7/06/bde70604a9e76508eb987b124950e095.jpg" 
+                     alt="Profile Avatar" 
+                     class="relative w-full h-full object-cover rounded-full border-4 border-slate-800">
+            </div>
+
+            <!-- အမည်နဲ့ ရာထူး/အလုပ်အကိုင် -->
+            <h1 class="text-2xl font-bold text-white tracking-wide">SNΞGFLAKΞ</h1>
+            <p class="text-indigo-400 text-sm font-medium mt-1">မင်္ဂလာပါရှင်</p>
+            <!-- ကိုယ့်အကြောင်း အတိုချုံး Bio -->
+            <p class="text-slate-400 text-xs mt-3 px-4 leading-relaxed">
+                Building scalable apps, writing clean code, and exploring new technologies. Welcome to my digital space! 🚀
+            </p>
+
+            <!-- ဆိုရှယ်မီဒီယာ အသေးစား Icon လေးများ (အပေါ်ဆုံးတန်း) -->
+            <div class="flex justify-center space-x-4 mt-5">
+                <!-- Github Link -->
+                <a href="https://github.com" target="_blank" class="w-10 h-10 rounded-full bg-slate-800 text-slate-300 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition">
+                    <i class="fab fa-github"></i>
+                </a>
+                <!-- LinkedIn Link -->
+                <a href="https://linkedin.com" target="_blank" class="w-10 h-10 rounded-full bg-slate-800 text-slate-300 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition">
+                    <i class="fab fa-linkedin-in"></i>
+                </a>
+                <!-- Twitter Link -->
+                <a href="https://twitter.com" target="_blank" class="w-10 h-10 rounded-full bg-slate-800 text-slate-300 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition">
+                    <i class="fab fa-twitter"></i>
+                </a>
+                <!-- Email Link -->
+                <a href="mailto:snegflake@mail.ru" class="w-10 h-10 rounded-full bg-slate-800 text-slate-300 flex items-center justify-center hover:bg-indigo-600 hover:text-white transition">
+                    <i class="fas fa-envelope"></i>
+                </a>
+            </div>
+        </div>
+
+        <!-- [၂] ပင်မ Linktree ပုံစံ ခလုတ်များ (Links Section) -->
+        <div class="space-y-3.5">
+            
+            <!-- Link ခုနှစ် (၁) - ဥပမာ GitHub Portfolio -->
+            <a href="https://github.com" target="_blank" class="link-btn glass-card flex items-center justify-between p-4 rounded-2xl text-white group">
+                <div class="flex items-center space-x-3">
+                    <div class="w-10 h-10 rounded-xl bg-indigo-500/20 text-indigo-400 flex items-center justify-center group-hover:bg-indigo-500 group-hover:text-white transition">
+                        <i class="fas fa-code text-lg"></i>
+                    </div>
+                    <div>
+                        <h2 class="text-sm font-semibold">My GitHub Portfolio</h2>
+                        <p class="text-xs text-slate-400">Check out my recent open-source projects</p>
+                    </div>
+                </div>
+                <i class="fas fa-arrow-right text-slate-500 group-hover:text-indigo-400 group-hover:translate-x-1 transition"></i>
+            </a>
+
+            <!-- Link ခုနှစ် (၂) - ဥပမာ Patreon Support -->
+            <a href="https://patreon.com" target="_blank" class="link-btn glass-card flex items-center justify-between p-4 rounded-2xl text-white group">
+                <div class="flex items-center space-x-3">
+                    <div class="w-10 h-10 rounded-xl bg-rose-500/20 text-rose-400 flex items-center justify-center group-hover:bg-rose-500 group-hover:text-white transition">
+                        <i class="fab fa-patreon text-lg"></i>
+                    </div>
+                    <div>
+                        <h2 class="text-sm font-semibold">Support on Patreon</h2>
+                        <p class="text-xs text-slate-400">Join my community and get exclusive content</p>
+                    </div>
+                </div>
+                <i class="fas fa-arrow-right text-slate-500 group-hover:text-rose-400 group-hover:translate-x-1 transition"></i>
+            </a>
+
+            <!-- Link ခုနှစ် (၃) - ဥပမာ Personal Website -->
+            <a href="#" target="_blank" class="link-btn glass-card flex items-center justify-between p-4 rounded-2xl text-white group">
+                <div class="flex items-center space-x-3">
+                    <div class="w-10 h-10 rounded-xl bg-emerald-500/20 text-emerald-400 flex items-center justify-center group-hover:bg-emerald-500 group-hover:text-white transition">
+                        <i class="fas fa-globe text-lg"></i>
+                    </div>
+                    <div>
+                        <h2 class="text-sm font-semibold">My Personal Website</h2>
+                        <p class="text-xs text-slate-400">Read my blogs and articles</p>
+                    </div>
+                </div>
+                <i class="fas fa-arrow-right text-slate-500 group-hover:text-emerald-400 group-hover:translate-x-1 transition"></i>
+            </a>
+
+            <!-- Link ခုနှစ် (၄) - ဥပမာ ဆက်သွယ်ရန် (Email) -->
+            <a href="mailto: snegflake@mail.ru" class="link-btn glass-card flex items-center justify-between p-4 rounded-2xl text-white group">
+                <div class="flex items-center space-x-3">
+                    <div class="w-10 h-10 rounded-xl bg-amber-500/20 text-amber-400 flex items-center justify-center group-hover:bg-amber-500 group-hover:text-white transition">
+                        <i class="fas fa-paper-plane text-lg"></i>
+                    </div>
+                    <div>
+                        <h2 class="text-sm font-semibold">Get in Touch</h2>
+                        <p class="text-xs text-slate-400">Let's build something amazing together</p>
+                    </div>
+                </div>
+                <i class="fas fa-arrow-right text-slate-500 group-hover:text-amber-400 group-hover:translate-x-1 transition"></i>
+            </a>
+
+        </div>
+
+        <!-- [၃] အောက်ဆုံး စာသား (Footer) -->
+        <div class="text-center text-slate-500 text-xs pt-2">
+            <p>© 2026 снежинка. All rights reserved.</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
