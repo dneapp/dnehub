@@ -21,7 +21,7 @@
   ],
 
   "media": [
-    { "id": "shot_01", "type": "image", "title": "Sample: notes app, home screen", "url": "pics/enc/l01_01.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "locked": true, "size": 0, "v": 1 },
+    { "id": "gal_img1", "type": "image", "title": "Sample: notes app, home screen", "url": "pics/enc/l01_01.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "locked": true, "size": 0, "v": 1 },
     { "id": "shot_02", "type": "image", "title": "Sample: unit converter app", "url": "screenshots/Screenshot_02.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "size": 0, "v": 1 },
     { "id": "shot_03", "type": "image", "title": "Adding Lottie animations", "url": "screenshots/Screenshot_03.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "size": 0, "v": 1 },
     { "id": "shot_04", "type": "image", "title": "Signing and exporting your APK", "url": "screenshots/Screenshot_04.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "size": 0, "v": 1 },
@@ -44,7 +44,7 @@
 "aud_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
 "vid_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
    "l01": "w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
-    "shot_01": "w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o="
+    "gal_img1": "w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o="
   }
 }
 
