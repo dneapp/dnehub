@@ -5,6 +5,6 @@
     "home": { "bg": "https://dneru.github.io/app/theme/home.mp4", "type": "video" }
   },
   "icons": {
-    "logo": "https://dneru.github.io/app/theme/logo.gif" },
+    "logo": "https://dneru.github.io/app/theme/icon.gif" },
   "colors": { "blue": "#2F6BFF", "yellow": "#FFC933" }
 }
