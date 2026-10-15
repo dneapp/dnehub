@@ -38,6 +38,8 @@
     { "id": "vid_intro", "type": "video", "title": "Intro video", "url": "vids/enc/sample.mp4", "thumb":"thumbs/thumbvid.webp", "encrypted": true, "locked": true, "size": 5000000, "v": 1 }
 
 ],
+
+
 "access": {
   "db12c0cd0dd64c38": {
 "img_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
