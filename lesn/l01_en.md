@@ -15,7 +15,7 @@ LinearLayout box = new LinearLayout(this);
 box.setOrientation(LinearLayout.VERTICAL);
 ```
 
-{{image:shot_layout}}
+{{image:img_intro}}
 
 {{audio:aud_intro}}
 
