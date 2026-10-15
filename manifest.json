@@ -21,7 +21,7 @@
   ],
 
   "media": [
-    { "id": "gal_img1", "type": "image", "title": "Sample: notes app, home screen", "url": "pics/enc/l01_01.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "locked": true, "size": 0, "v": 1 },
+    { "id": "gal_img1", "type": "image", "title": "Sample: notes app, home screen", "url": "pics/enc/sample.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "locked": true, "size": 0, "v": 1 },
     { "id": "shot_02", "type": "image", "title": "Sample: unit converter app", "url": "screenshots/Screenshot_02.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "size": 0, "v": 1 },
     { "id": "shot_03", "type": "image", "title": "Adding Lottie animations", "url": "screenshots/Screenshot_03.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "size": 0, "v": 1 },
     { "id": "shot_04", "type": "image", "title": "Signing and exporting your APK", "url": "screenshots/Screenshot_04.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "size": 0, "v": 1 },
@@ -33,9 +33,9 @@
     { "id": "shot_10", "type": "image", "title": "Debugging common build errors", "url": "Screenshot_10.jpg", "thumb": "thumbs/thumbimg.webp", "size": 0, "v": 1 },
     { "id": "shot_11", "type": "image", "title": "Firebase login screen, finished", "url": "Screenshot_11.jpg", "thumb": "thumbs/thumbimg.webp", "size": 0, "v": 1 },
     { "id": "shot_12", "type": "image", "title": "Using the Java editor with More Blocks", "url": "Screenshot_12.jpg", "thumb": "thumbs/thumbimg.webp", "size": 0, "v": 1 },
-    { "id": "img_intro", "type": "image", "title": "စမ်းသပ်ပုံတစ်?", "url": "pics/enc/l01_i1", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "locked": true, "gallery": false, "size": 820000, "v": 1 },
-    { "id": "aud_intro", "type": "audio", "title": "အသံစမ်းသပ်", "url": "auds/enc/l01_a1.mp3", "thumb" :"thumbs/thumbaud.webp", "encrypted": true, "locked": true, "size": 500000, "v": 1 },
-    { "id": "vid_intro", "type": "video", "title": "Intro video", "url": "vids/enc/l01_v1.mp4", "thumb":"thumbs/thumbvid.webp", "encrypted": true, "locked": true, "size": 5000000, "v": 1 }
+    { "id": "img_intro", "type": "image", "title": "စမ်းသပ်ပုံတစ်?", "url": "pics/enc/sample.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "locked": true, "gallery": false, "size": 820000, "v": 1 },
+    { "id": "aud_intro", "type": "audio", "title": "အသံစမ်းသပ်", "url": "auds/enc/sample.mp3", "thumb" :"thumbs/thumbaud.webp", "encrypted": true, "locked": true, "size": 500000, "v": 1 },
+    { "id": "vid_intro", "type": "video", "title": "Intro video", "url": "vids/enc/sample.mp4", "thumb":"thumbs/thumbvid.webp", "encrypted": true, "locked": true, "size": 5000000, "v": 1 }
 
 ],
 "access": {
