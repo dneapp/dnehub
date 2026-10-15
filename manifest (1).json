@@ -1,0 +1,52 @@
+{
+  "screenshot_block": false,
+
+  "files": [
+    {"name": "strings.json", "v": 1},
+    {"name": "docs/about_mm.md", "v": 1},
+    {"name": "docs/about_en.md", "v": 1}
+  ],
+
+"guide": { "mm": "docs/hypno_mm.md", "en": "docs/hypno_en.md" },
+"files": [
+  { "name": "docs/hypno_mm.md", "v": 1 },
+  { "name": "docs/hypno_en.md", "v": 1 }
+],
+
+  "lessons": [
+    { "id": "l01", "lang": "mm", "title": "Layout အခြေခံ", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lessons/l01_mm.md", "encrypted": true, "locked": true, "v": 1 },
+    { "id": "l01", "lang": "en", "title": "Layout basics", "summary": "How to build a layout in the View editor", "file": "lessons/l01_en.md", "v": 1 },
+    { "id": "l02", "lang": "mm", "title": "Button click event", "summary": "ခလုတ်နှိပ်ရင် ဘာဖြစ်မလဲ", "file": "lessons/l02_mm.md", "v": 1 },
+    { "id": "l02", "lang": "en", "title": "Button click event", "summary": "What happens when a button is tapped", "file": "lessons/l02_en.md", "v": 1 }
+  ],
+  "media": [
+    { "id": "shot_01", "type": "image", "title": "Sample: notes app, home screen", "url": "screenshots/Screenshot_01.jpg", "thumb": "thumbs/Screenshot_01.jpg", "encrypted": true, "locked": true, "size": 0, "v": 1 },
+    { "id": "shot_02", "type": "image", "title": "Sample: unit converter app", "url": "screenshots/Screenshot_02.jpg", "thumb": "thumbs/Screenshot_02.jpg", "encrypted": true, "size": 0, "v": 1 },
+    { "id": "shot_03", "type": "image", "title": "Adding Lottie animations", "url": "screenshots/Screenshot_03.jpg", "thumb": "thumbs/Screenshot_03.jpg", "encrypted": true, "size": 0, "v": 1 },
+    { "id": "shot_04", "type": "image", "title": "Signing and exporting your APK", "url": "screenshots/Screenshot_04.jpg", "thumb": "thumbs/Screenshot_04.jpg", "encrypted": true, "size": 0, "v": 1 },
+    { "id": "shot_05", "type": "image", "title": "Sample: quiz app with timer", "url": "screenshots/Screenshot_05.jpg", "thumb": "thumbs/Screenshot_05.jpg", "encrypted": true, "size": 0, "v": 1 },
+    { "id": "shot_06", "type": "image", "title": "စမ်းသပ်ပုံတစ်?", "url": "screenshots/Screenshot_06.jpg", "thumb": "thumbs/Screenshot_06.jpg", "encrypted": true, "size": 820000, "v": 1 },
+    { "id": "shot_07", "type": "image", "title": "Wiring up a button click event", "url": "Screenshot_07.jpg", "thumb": "thumbs/Screenshot_07.jpg", "size": 0, "v": 1 },
+    { "id": "shot_08", "type": "image", "title": "Saving data with SharedPreferences", "url": "Screenshot_08.jpg", "thumb": "thumbs/Screenshot_08.jpg", "size": 0, "v": 1 },
+    { "id": "shot_09", "type": "image", "title": "Building a ListView with custom rows", "url": "Screenshot_09.jpg", "thumb": "thumbs/Screenshot_09.jpg", "size": 0, "v": 1 },
+    { "id": "shot_10", "type": "image", "title": "Debugging common build errors", "url": "Screenshot_10.jpg", "thumb": "thumbs/Screenshot_10.jpg", "size": 0, "v": 1 },
+    { "id": "shot_11", "type": "image", "title": "Firebase login screen, finished", "url": "Screenshot_11.jpg", "thumb": "thumbs/Screenshot_11.jpg", "size": 0, "v": 1 },
+    { "id": "shot_12", "type": "image", "title": "Using the Java editor with More Blocks", "url": "Screenshot_12.jpg", "thumb": "thumbs/Screenshot_12.jpg", "size": 0, "v": 1 },
+    { "id": "shot_layout", "type": "image", "title": "စမ်းသပ်ပုံတစ်?", "url": "admin/img01.png", "thumb": "", "encrypted": true, "locked": true, "size": 820000, "v": 1 },
+    { "id": "aud_intro", "type": "audio", "title": "အသံစမ်းသပ်", "url": "admin/aud01.mp3", "encrypted": true, "locked": true, "size": 500000, "v": 1 },
+    { "id": "vid_intro", "type": "video", "title": "Intro video", "url": "admin/vid01.mp4", "encrypted": true, "locked": true, "size": 5000000, "v": 1 }
+
+],
+"access": {
+  "db12c0cd0dd64c38": {
+"shot_layout":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
+"aud_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
+"vid_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
+   #"l01": "w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
+    "shot_01": "w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o="
+  }
+}
+
+
+}
+
