@@ -33,17 +33,17 @@
     { "id": "shot_10", "type": "image", "title": "Debugging common build errors", "url": "Screenshot_10.jpg", "thumb": "thumbs/thumbimg.webp", "size": 0, "v": 1 },
     { "id": "shot_11", "type": "image", "title": "Firebase login screen, finished", "url": "Screenshot_11.jpg", "thumb": "thumbs/thumbimg.webp", "size": 0, "v": 1 },
     { "id": "shot_12", "type": "image", "title": "Using the Java editor with More Blocks", "url": "Screenshot_12.jpg", "thumb": "thumbs/thumbimg.webp", "size": 0, "v": 1 },
-    { "id": "l01_i1", "type": "image", "title": "စမ်းသပ်ပုံတစ်?", "url": "pics/enc/l01_i1", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "locked": true, "gallery": false, "size": 820000, "v": 1 },
+    { "id": "img_intro", "type": "image", "title": "စမ်းသပ်ပုံတစ်?", "url": "pics/enc/l01_i1", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "locked": true, "gallery": false, "size": 820000, "v": 1 },
     { "id": "aud_intro", "type": "audio", "title": "အသံစမ်းသပ်", "url": "auds/enc/l01_a1.mp3", "thumb" :"thumbs/thumbaud.webp", "encrypted": true, "locked": true, "size": 500000, "v": 1 },
     { "id": "vid_intro", "type": "video", "title": "Intro video", "url": "vids/enc/l01_v1.mp4", "thumb":"thumbs/thumbvid.webp", "encrypted": true, "locked": true, "size": 5000000, "v": 1 }
 
 ],
 "access": {
   "db12c0cd0dd64c38": {
-"l01_i1":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
+"img_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
 "aud_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
 "vid_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
-   #"l01": "w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
+   "l01": "w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
     "shot_01": "w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o="
   }
 }
