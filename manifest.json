@@ -1,16 +1,12 @@
 {
   "screenshot_block": false,
 
-  "files": [
-    {"name": "strings.json", "v": 1},
-    {"name": "docs/about_mm.md", "v": 1},
-    {"name": "docs/about_en.md", "v": 1}
-  ],
-
 "guide": { "mm": "docs/hypno_mm.md", "en": "docs/hypno_en.md" },
+
 "files": [
-  { "name": "docs/hypno_mm.md", "v": 1 },
-  { "name": "docs/hypno_en.md", "v": 1 }
+  {"name": "strings.json", "v": 1},
+  {"name": "docs/about_mm.md", "v": 1},
+  {"name": "docs/about_en.md", "v": 1}
 ],
 
   "lessons": [
