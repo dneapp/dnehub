@@ -1,0 +1,462 @@
+{
+  "nav_home": {
+    "mm": "ပင်မ",
+    "en": "Home"
+  },
+  "nav_lessons": {
+    "mm": "သင်ခန်းစာ",
+    "en": "Lessons"
+  },
+  "nav_guide": {
+    "mm": "လမ်းညွှန်",
+    "en": "Guide"
+  },
+  "nav_gallery": {
+    "mm": "ပုံများ",
+    "en": "Gallery"
+  },
+  "nav_full": {
+    "mm": "နှိုင်းယှဉ်",
+    "en": "Compare"
+  },
+  "nav_more": {
+    "mm": "နောက်ထပ်",
+    "en": "More"
+  },
+  "ap_restart": {
+    "mm": "အစကနေ",
+    "en": "Start over"
+  },
+  "ap_fail": {
+    "mm": "အသံဖွင့်လို့မရပါ",
+    "en": "Could not play this audio"
+  },
+  "ap_notfound": {
+    "mm": "အသံဖိုင် မတွေ့ပါ",
+    "en": "Audio file not found"
+  },
+  "rd_size": {
+    "mm": "စာအရွယ်",
+    "en": "Text size"
+  },
+  "rd_spacing": {
+    "mm": "စာကြောင်းအကြား",
+    "en": "Line spacing"
+  },
+  "rd_ls0": {
+    "mm": "ကျဉ်း",
+    "en": "Tight"
+  },
+  "rd_ls1": {
+    "mm": "ပုံမှန်",
+    "en": "Normal"
+  },
+  "rd_ls2": {
+    "mm": "ကျယ်",
+    "en": "Relaxed"
+  },
+  "rd_reset": {
+    "mm": "ပြန်သတ်မှတ်",
+    "en": "Reset"
+  },
+  "vp_resume_t": {
+    "mm": "ဆက်ကြည့်မလား?",
+    "en": "Resume watching?"
+  },
+  "vp_resume_yes": {
+    "mm": "%s ကနေ ဆက်ကြည့်မယ်",
+    "en": "Resume from %s"
+  },
+  "vp_restart": {
+    "mm": "အစကနေ ပြန်ကြည့်မယ်",
+    "en": "Start over"
+  },
+  "vp_fail": {
+    "mm": "ဒီဗီဒီယိုကို မဖွင့်နိုင်ပါ",
+    "en": "Could not play this video"
+  },
+  "more_title": {
+    "mm": "နောက်ထပ်",
+    "en": "More"
+  },
+  "more_version": {
+    "mm": "App ဗားရှင်း",
+    "en": "App version"
+  },
+  "more_about": {
+    "mm": "App အကြောင်း",
+    "en": "About"
+  },
+  "about_missing": {
+    "mm": "App အကြောင်း မရသေးပါ။ အင်တာနက်ချိတ်ပြီး တစ်ကြိမ် ဖွင့်ပါ။",
+    "en": "About isn't available yet. Connect to the internet once to load it."
+  },
+  "home_welcome": {
+    "mm": "နမော ဗုဒ္ဓါယျ သိဒ္ဓံ",
+    "en": "Warmly welcome"
+  },
+  "home_hero": {
+    "mm": "မင်္ဂလာရှိကြပါစေ",
+    "en": "Start your first day with A²⁴ today"
+  },
+  "home_sub": {
+    "mm": "အကောင့်ဖွင့်စရာ မလိုပါဘူး",
+    "en": "Start with the free. No sign-up needed."
+  },
+  "home_start": {
+    "mm": "စတင်လေ့လာမယ်",
+    "en": "Start Learning"
+  },
+  "home_a1_t": {
+    "mm": "အခမဲ့ လမ်းညွှန် ကြည့်ရန်",
+    "en": "View Free Guide"
+  },
+  "home_a1_d": {
+    "mm": "ဒီမှာ ဖတ်ပါ၊ ဒါမှမဟုတ် ဒေါင်းလုဒ်လုပ်ပါ",
+    "en": "Read it here or download it"
+  },
+  "home_a2_t": {
+    "mm": "Screenshot ပုံများ",
+    "en": "Screenshots Gallery"
+  },
+  "home_a2_d": {
+    "mm": "%d ပုံနဲ့ နမူနာများ",
+    "en": "%d screens and samples"
+  },
+  "home_a3_t": {
+    "mm": "အပြည့်အစုံ လမ်းညွှန် ရယူရန်",
+    "en": "Get Full Guide"
+  },
+  "home_a3_d": {
+    "mm": "Free၊ Standard၊ Premium နှိုင်းယှဉ်ကြည့်ပါ",
+    "en": "Compare Free, Standard, Premium"
+  },
+  "home_replay": {
+    "mm": "မိတ်ဆက်သို့",
+    "en": "Go intro"
+  },
+  "dark_label": {
+    "mm": "အမှောင်",
+    "en": "Dark"
+  },
+  "lang_title": {
+    "mm": "ဘာသာစကား",
+    "en": "Language"
+  },
+  "auto_title": {
+    "mm": "Wi-Fi မှာ အလိုအလျောက် ဒေါင်းလုဒ်",
+    "en": "Auto-download on Wi-Fi"
+  },
+  "auto_sub": {
+    "mm": "၅ MB အောက် ဖိုင်သေးများသာ",
+    "en": "Small files only (under 5 MB)"
+  },
+  "stor_title": {
+    "mm": "ဒေါင်းလုဒ်ထားသော ဖိုင်များ",
+    "en": "Downloaded media"
+  },
+  "stor_clear": {
+    "mm": "ရှင်းမယ်",
+    "en": "Clear"
+  },
+  "stor_freed": {
+    "mm": "%s နေရာလွတ်သွားပါပြီ",
+    "en": "Freed %s"
+  },
+  "stor_size": {
+    "mm": "%s / %s",
+    "en": "%s of %s"
+  },
+  "lessons_title": {
+    "mm": "သင်ခန်းစာများ",
+    "en": "Lessons"
+  },
+  "lessons_empty": {
+    "mm": "သင်ခန်းစာ မရှိသေးပါ။ အင်တာနက်ချိတ်ပြီး တစ်ကြိမ် ဖွင့်ပါ။",
+    "en": "No lessons yet. Connect to the internet once to load them."
+  },
+  "lesson_default": {
+    "mm": "သင်ခန်းစာ",
+    "en": "Lesson"
+  },
+  "lesson_not_loaded": {
+    "mm": "ဒီသင်ခန်းစာကို မဒေါင်းရသေးပါ။ အင်တာနက်ချိတ်ပြီး app ကို ပြန်ဖွင့်ပါ။",
+    "en": "This lesson has not been downloaded yet. Connect to the internet and reopen the app."
+  },
+  "media_missing": {
+    "mm": "မတွေ့သော media: %s",
+    "en": "Missing media: %s"
+  },
+  "kind_image": {
+    "mm": "ပုံ",
+    "en": "Image"
+  },
+  "kind_audio": {
+    "mm": "အသံ",
+    "en": "Audio"
+  },
+  "kind_video": {
+    "mm": "ဗီဒီယို",
+    "en": "Video"
+  },
+  "st_open": {
+    "mm": "ကြည့်မယ်",
+    "en": "Open"
+  },
+  "st_play": {
+    "mm": "ဖွင့်မယ်",
+    "en": "Play"
+  },
+  "st_get": {
+    "mm": "ရယူမယ်",
+    "en": "Get"
+  },
+  "dl_failed": {
+    "mm": "ဒေါင်းလုဒ် မအောင်မြင်ပါ: %s",
+    "en": "Download failed: %s"
+  },
+  "img_open_failed": {
+    "mm": "ပုံကို ဖွင့်လို့မရပါ",
+    "en": "Could not open the image"
+  },
+  "onb_t0": {
+    "mm": "ဘဝတု သဗ္ဗမင်္ဂလံ",
+    "en": "ဘဝတု သဗ္ဗမင်္ဂလံ"
+  },
+  "onb_x0": {
+    "mm": "လေ့လာမှုတိုင်းက အသိပညာ တစ်စိတ်တစ်ပိုင်း ဖြစ်လာပြီး အသိပညာတိုင်းက ဘဝကို ပိုမိုကောင်းမွန်စေနိုင်ပါတယ်",
+    "en": "Every learning experience becomes a piece of knowledge, and every piece of knowledge can make life better."
+  },
+  "onb_t1": {
+    "mm": "အလိမ္မာ စာမှာရှိ",
+    "en": "Wisdom Lives in Books."
+  },
+  "onb_x1": {
+    "mm": "စာဖတ်ခြင်းဖြင့် အသိပညာများကို ဘဝအဆင့်ကို မြှင့်တင်မလား",
+    "en": "Will you read and learn, gaining knowledge that can elevate your life?"
+  },
+  "onb_t2": {
+    "mm": "ပုံနှင့် ဗီဒီယိုများ",
+    "en": "Images and Videos."
+  },
+  "onb_x2": {
+    "mm": "လွယ်ကူစေရန်၊ နားလည်နိုင်စေရန် ပုံ၊ ဗီဒီယိုများနှင့် လေ့လာမလား",
+    "en": "Will you learn through images and videos, making things easier to understand and learn?"
+  },
+  "onb_t3": {
+    "mm": "အသံနှင့် စာအုပ်များ",
+    "en": "Sounds and Books."
+  },
+  "onb_x3": {
+    "mm": "စာဖတ်ရင်း အသံနားထောင်, အသံနားထောင်ရင်း စာဖတ်မလား?",
+    "en": "Will you listen while reading, or read while listening?"
+  },
+  "onb_skip": {
+    "mm": "ကျော်မယ်",
+    "en": "Skip"
+  },
+  "onb_next": {
+    "mm": "ရှေ့ဆက်",
+    "en": "Next"
+  },
+  "onb_last": {
+    "mm": "အခမဲ့ ဖန်တီးမှုသို့",
+    "en": "Explore the free version"
+  },
+  "free_edition": {
+    "mm": "အခမဲ့ ထုတ်ဝေမှု",
+    "en": "Free Edition"
+  },
+  "fg_tag": {
+    "mm": "အခမဲ့ ထုတ်ဝေမှု",
+    "en": "Free version"
+  },
+  "fg_title": {
+    "mm": "အခမဲ့ – A²⁴ အပြည့်အစုံ",
+    "en": "Free – A²⁴ Ultimate"
+  },
+  "fg_sub": {
+    "mm": "ဒေါင်းပြီးရင် အော့ဖ်လိုင်းမှာ ဖတ်လို့ရတယ်",
+    "en": "Works offline once downloaded"
+  },
+  "fg_note": {
+    "mm": "ဒါက အခမဲ့ ဗားရှင်းပါ။ A²⁴ နဲ့ အခြေခံကိုသာ ပြထားခြင်းဖြစ်သည်။ အဆင့်မြင့် အခန်းတွေကို Standard နဲ့ Premium မှာ လေ့လာနိုင်သည်",
+    "en": "This is the free. It shows the basiconly. The advanced chapters are in Standard and Premium."
+  },
+  "fg_dl": {
+    "mm": "အခမဲ့ ဒေါင်းမယ်",
+    "en": "Download Free"
+  },
+  "fg_dling": {
+    "mm": "ဒေါင်းနေသည် %d%%",
+    "en": "Downloading %d%%"
+  },
+  "fg_saved": {
+    "mm": "Downloads ထဲ သိမ်းပြီးပါပြီ",
+    "en": "Saved to Downloads"
+  },
+  "fg_open_hint": {
+    "mm": "Downloads folder ထဲက %s ကို ဖွင့်ပါ။",
+    "en": "Open %s from your Downloads folder."
+  },
+  "fg_retry": {
+    "mm": "ထပ်ကြိုးစားမယ်",
+    "en": "Try again"
+  },
+  "fg_fail": {
+    "mm": "လမ်းညွှန်ကို သိမ်းလို့မရပါ။ %s",
+    "en": "Could not save the guide. %s"
+  },
+  "fg_perm_denied": {
+    "mm": "သိမ်းဖို့ ခွင့်ပြုချက် ငြင်းထားပါတယ်။",
+    "en": "Storage permission was denied."
+  },
+  "fg_read": {
+    "mm": "app ထဲမှာ ဖတ်မယ်",
+    "en": "Read inside the app"
+  },
+  "fg_inside": {
+    "mm": "အထဲမှာ ဘာတွေရှိလဲ",
+    "en": "What is inside"
+  },
+  "fg_section": {
+    "mm": "အပိုင်း %s",
+    "en": "Section %s"
+  },
+  "fg_back": {
+    "mm": "အခမဲ့ လမ်းညွှန်",
+    "en": "Free Edition"
+  },
+  "fg_missing": {
+    "mm": "လမ်းညွှန်ဖိုင် မရသေးပါ။ အင်တာနက်ချိတ်ပြီး app ကို ပြန်ဖွင့်ပါ။",
+    "en": "The guide has not been downloaded yet. Connect to the internet and reopen the app."
+  },
+  "fg_lock_t": {
+    "mm": "အခမဲ့ ဗားရှင်း ဒီမှာ အဆုံးပါ",
+    "en": "Free edition ends here"
+  },
+  "fg_lock_x": {
+    "mm": "အဆင့်မြင့် အခန်းတွေကို Standard နဲ့ Premium မှာ လေ့လာပါ",
+    "en": "The advanced chapters are in Standard and Premium."
+  },
+  "fg_see_full": {
+    "mm": "အပြည့်အစုံ လမ်းညွှန်ကို ကြည့်မယ်",
+    "en": "See full guide"
+  },
+  "full_title": {
+    "mm": "အပြည့်အစုံ လမ်းညွှန် ရယူရန်",
+    "en": "Get Full Guide"
+  },
+  "full_intro": {
+    "mm": "သင့်အတွက် နည်းလမ်းများကို ရွေးပါ။ ငွေပေးချေမှုနဲ့ စျေးနှုန်းကို နှိုင်းယှဉ်ကြည့်ပါ",
+    "en": "Pick the edition that fits you. Payment and pricing are handled securely on WEB."
+  },
+  "full_buy": {
+    "mm": "WEB မှာ အပြည့်အစုံ ရှိပါတယ်",
+    "en": "Get the full guide on WEB"
+  },
+  "full_cap": {
+    "mm": "Browser မှာ ဖွင့်မယ်",
+    "en": "Opens WEB in your browser"
+  },
+  "full_no_browser": {
+    "mm": "browser မတွေ့ပါ",
+    "en": "No browser found"
+  },
+  "full_free_note": {
+    "mm": "သင့်မှာ ရှိပြီးသားပါ။ App စာမျက်နှာကနေ ဖတ်ပါ ထပ်ဒေါင်းရင်လည်း ရပါတယ်",
+    "en": "You already have this. Read it or download it from the Free Guide page."
+  },
+  "full_std_note": {
+    "mm": "အရာအားလုံး အခမဲ့",
+    "en": "Everything in Free."
+  },
+  "full_prem_note": {
+    "mm": "Standard ထဲက အရာအားလုံး",
+    "en": "All Standard."
+  },
+  "full_feat_intro": {
+    "mm": "ထူးခြားချက်များ",
+    "en": "Features"
+  },
+  "gal_title": {
+    "mm": "Screenshot ပုံများ",
+    "en": "Screenshots"
+  },
+  "gal_count": {
+    "mm": "ပုံ %d ပုံ။ ကြီးကြီးကြည့်ချင်ရင် နှိပ်ပါ။",
+    "en": "%d images. Tap one to view it larger."
+  },
+  "gal_empty": {
+    "mm": "ပုံ မရှိသေးပါ။ အင်တာနက်ချိတ်ပြီး တစ်ကြိမ် ဖွင့်ပါ။",
+    "en": "No screenshots yet. Connect to the internet once to load them."
+  },
+  "gal_ph": {
+    "mm": "ပုံ မရသေးပါ",
+    "en": "Placeholder"
+  },
+  "dl_again_t": {
+    "mm": "ထပ်ဒေါင်းမလား?",
+    "en": "Download again?"
+  },
+  "dl_again_m": {
+    "mm": "%s က Downloads ထဲမှာ ရှိပြီးသားပါ။ အစားထိုးမလား?",
+    "en": "%s is already in Downloads. Replace it?"
+  },
+  "dl_again_yes": {
+    "mm": "အစားထိုးမယ်",
+    "en": "Replace"
+  },
+  "dl_no": {
+    "mm": "မလုပ်တော့",
+    "en": "Cancel"
+  },
+  "fg_done": {
+    "mm": "ဒေါင်းပြီးပါပြီ",
+    "en": "Downloaded"
+  },
+  "fg_done_hint": {
+    "mm": "Downloads ထဲက ဖိုင်ကို အစားထိုးချင်ရင် ခလုတ်ကို ထပ်နှိပ်ပါ။",
+    "en": "Tap again to replace the copy in Downloads."
+  },
+  "clear_t": {
+    "mm": "ဒေါင်းထားတာတွေ ရှင်းမလား?",
+    "en": "Clear downloaded media?"
+  },
+  "clear_m": {
+    "mm": "ပုံ၊ အသံ၊ ဗီဒီယို အားလုံး ဖျက်ပါမယ်။ ပြန်ဒေါင်းမှ ရမှာပါ။",
+    "en": "All downloaded images, audio and video will be removed. You will need to download them again."
+  },
+  "clear_yes": {
+    "mm": "ရှင်းမယ်",
+    "en": "Clear"
+  },
+  "web_loading": {
+    "mm": "ဖွင့်နေပါတယ်…",
+    "en": "Loading…"
+  },
+  "web_offline": {
+    "mm": "အင်တာနက် မရပါ။ ချိတ်ဆက်ပြီး နောက်တစ်ကြိမ် ထပ်ကြိုးစားပါ။",
+    "en": "No internet. Connect and try again."
+  },
+  "data_t": {
+    "mm": "ဒေါင်းမလား?",
+    "en": "Download now?"
+  },
+  "data_m": {
+    "mm": "မိုဘိုင်းဒေတာ သုံးနေပါတယ်။ ဒေတာ ပိုကုန်နိုင်ပါတယ်။",
+    "en": "You are on mobile data. This may use more of your data."
+  },
+  "data_yes": {
+    "mm": "ဒေါင်းမယ်",
+    "en": "Download"
+  },
+  "data_no": {
+    "mm": "မဒေါင်းဘူး",
+    "en": "Not now"
+  },
+  "gal_dl": {
+    "mm": "အပြည့်ဒေါင်းပြီး ကြည့်မယ်",
+    "en": "Download to view full size"
+  }
+}
