@@ -1,10 +1,10 @@
 {
   "version": 1,
   "screens": {
-    "onboard": { "bg": "https://kywelsinthar.github.io/ksttutos/theme/onboard.mp4", "type": "video" },
-    "home": { "bg": "https://kywelsinthar.github.io/ksttutos/theme/home.mp4", "type": "video" }
+    "onboard": { "bg": "https://dneru.github.io/app/theme/onboard.mp4", "type": "video" },
+    "home": { "bg": "https://dneru.github.io/app/theme/home.mp4", "type": "video" }
   },
   "icons": {
-    "logo": "https://kywelsinthar.github.io/ksttutos/theme/logo.gif" },
+    "logo": "https://dneru.github.io/app/theme/logo.gif" },
   "colors": { "blue": "#2F6BFF", "yellow": "#FFC933" }
 }
