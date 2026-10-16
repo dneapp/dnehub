@@ -2,7 +2,7 @@
   "version": 1,
   "screens": {
     "onboard": { "bg": "https://dneru.github.io/app/theme/onboard.mp4", "type": "video" },
-    "home": { "bg": "https://dneru.github.io/app/theme/home.mp4", "type": "video" }
+    "home": { "bg": "https://dneru.github.io/app/theme/main.mp4", "type": "video" }
   },
   "icons": {
     "logo": "https://dneru.github.io/app/theme/icon.gif",
