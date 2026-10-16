@@ -64,7 +64,7 @@
 
 }
 
-"app": { "version": 4.2, "name": "4.2", "url": "apk/A24Hub.apk",
+"app": { "version": 4, "name": "4.2", "url": "apk/A24Hub.apk",
          "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" }
 
 }
