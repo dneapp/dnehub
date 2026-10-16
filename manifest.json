@@ -20,7 +20,7 @@
 ],
 
  "media": [
-  {"id": "img_intro", "type": "image", "title": "ပုံစမ်းသပ်", "url": "pics/enc/sample.jpg", "thumb": "thumbs/thumbimg.png", "encrypted": true, "locked": true, "gallery": false, "size": 820000, "v": 1 },
+  {"id": "img_intro", "type": "image", "title": "ပုံစမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbimg.png", "encrypted": true, "locked": true, "gallery": false, "size": 820000, "v": 1 },
   {"id": "aud_intro", "type": "audio", "title": "အသံစမ်းသပ်", "url": "auds/enc/sample.mp3", "thumb" :"thumbs/thumbaud.webp", "encrypted": true, "locked": true, "size": 500000, "v": 1 },
   {"id": "vid_intro", "type": "video", "title": "Intro video", "url": "vids/enc/sample.mp4", "thumb":"thumbs/thumbvid.webp", "encrypted": true, "locked": true, "size": 5000000, "v": 1 },
    
