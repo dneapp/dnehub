@@ -46,6 +46,8 @@
   {"id": "ss_lock", "type": "image", "title": "စမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbimg.png", "encrypted": true, "size": 0, "v": 1 }
 
 ],
+
+"app": { "version": 4, "name": "4.2", "url": "apk/A24Hub.apk", "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" },
    
  "access": {
    "45d732bf25f1e583": {
@@ -64,7 +66,5 @@
 
 }
 
-"app": { "version": 4, "name": "4.2", "url": "apk/A24Hub.apk",
-         "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" }
 
 }
