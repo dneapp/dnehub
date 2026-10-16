@@ -36,22 +36,22 @@
   {"id": "ss_10", "type": "image", "title": "Debugging common build errors", "url": "pics/ss10.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
   {"id": "ss_11", "type": "image", "title": "Firebase login screen, finished", "url": "pics/ss11.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
   {"id": "ss_12", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss12.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
-  #{"id": "ss_13", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss13.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
-  #{"id": "ss_14", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss14.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
-  #{"id": "ss_15", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss15.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
-  #{"id": "ss_16", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss16.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
-  #{"id": "ss_17", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss17.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
-  #{"id": "ss_18", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss18.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
-  #{"id": "ss_19", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss19.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 }
+  {"id": "ss_13", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss13.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
+  {"id": "ss_14", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss14.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
+  {"id": "ss_15", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss15.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
+  {"id": "ss_16", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss16.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
+  {"id": "ss_17", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss17.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
+  {"id": "ss_18", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss18.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
+  {"id": "ss_19", "type": "image", "title": "Using the Java editor with More Blocks", "url": "pics/ss19.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 }
 ],
    
  "access": {
    "db12c0cd0dd64c38": {
-  #"img_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
-  #"aud_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
-  #"vid_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
+  "img_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
+  "aud_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
+  "vid_intro":"w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
    "l01": "w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o=",
-  #"gal_img1": "w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o="
+  "gal_img1": "w1:vZ3Iv6d4Ch2IhIT9FwZPUArbN19VNXmv+HuxU0GDfLSfA8EcdEIruV4mg5o="
 }
 }
 
