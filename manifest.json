@@ -15,7 +15,7 @@
 ],
 
 "lessons": [
-  {"id": "lch", "lang": "mm", "title": "တီဗွီချန်နယ်", "summary": "ပြတာပဲကြည့်", "file": "lesn/enc/lch_mm.md", "encrypted": true, "locked": true, "v": 1 },
+  {"id": "lch", "lang": "mm", "title": "တီဗွီချန်နယ်", "summary": "ပြတာပဲကြည့်ကြပါ", "file": "lesn/enc/lch_mm.md", "encrypted": true, "locked": true, "v": 1 },
   {"id": "l01", "lang": "mm", "title": "Layout အခြေခံ", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lesn/enc/l01_mm.md", "encrypted": true, "locked": true, "v": 1 },
   {"id": "l01", "lang": "en", "title": "Layout basics", "summary": "How to build a layout in the View editor", "file": "lesn/l01_en.md", "v": 1 },
   {"id": "l02", "lang": "mm", "title": "Button click event", "summary": "ခလုတ်နှိပ်ရင် ဘာဖြစ်မလဲ", "file": "lesn/l02_mm.md", "v": 1 },
@@ -23,8 +23,8 @@
 ],
 
  "media": [
-  {"id": "lch_i1", "type": "image", "title": "MRTV4", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbimg.png", "encrypted": true, "locked": true, "gallery": false, "size": 0, "v": 1 },
-  {"id": "lch_v1", "type": "image", "title": "MRTV_4", "url": "https://live.pyoneplay.com/live/01m2sn12yc6v2enx392qj2ekqt/index.m3u8", "thumb": "thumbs/thumbvid.webp", "size": 0, "v": 1 },
+
+  {"id": "lch_i1", "type": "image", "title": "MRTV4", "url": "pics/ss01.jpg", "thumb": "thumbs/thumbimg.png", "encrypted": true, "locked": true, "gallery": false, "size": 0, "v": 1 },
    
   {"id": "img_intro", "type": "image", "title": "ပုံစမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbimg.png", "encrypted": true, "locked": true, "gallery": false, "size": 0, "v": 1 },
   {"id": "aud_intro", "type": "audio", "title": "အသံစမ်းသပ်", "url": "auds/enc/sample.mp3", "thumb" :"thumbs/thumbaud.webp", "encrypted": true, "locked": true, "size": 500000, "v": 1 },
