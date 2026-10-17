@@ -47,7 +47,7 @@
 
 ],
 
-"app": { "version": 4, "name": "4.2", "url": "update/update.apk", "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" },
+"app": { "version": 5, "name": "abc", "url": "update/update.apk", "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" },
    
  "access": {
    "45d732bf25f1e583": {
