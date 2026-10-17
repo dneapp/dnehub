@@ -2,7 +2,7 @@
   
 "screenss_block": false,
 
-"update": { "version": 5, "name": "4.1", "url": "update/update.apk", "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" },
+"update": { "version": 1102027, "name": "4.1", "url": "update/update.apk", "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" },
 
 "guide": { "mm": "docs/hypno_mm.md", "en": "docs/hypno_en.md" },
 
