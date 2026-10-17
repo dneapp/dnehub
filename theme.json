@@ -5,7 +5,7 @@
     "home": { "bg": "https://dneru.github.io/app/theme/main.mp4", "type": "video" }
   },
   "icons": {
-    "new": "",
+    "new": "https://dneru.github.io/app/theme/NewTag.json",
     "logo": "https://dneru.github.io/app/theme/icon.gif",
     "igwz": "https://dneru.github.io/app/theme/igwz.gif"
 },
