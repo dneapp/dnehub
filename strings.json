@@ -272,8 +272,8 @@
     "en": "Free version"
   },
   "fg_title": {
-    "mm": "အခမဲ့ – A²⁴ အပြည့်အစုံ",
-    "en": "Free – A²⁴ Ultimate"
+    "mm": "A²⁴ အပြည့်အစုံ",
+    "en": "A²⁴ Ultimate"
   },
   "fg_sub": {
     "mm": "ဒေါင်းပြီးရင် အော့ဖ်လိုင်းမှာ ဖတ်လို့ရတယ်",
@@ -332,7 +332,7 @@
     "en": "The guide has not been downloaded yet. Connect to the internet and reopen the app."
   },
   "fg_lock_t": {
-    "mm": "အခမဲ့ ဗားရှင်း ဒီမှာ အဆုံးပါ",
+    "mm": "အခမဲ့ ဗားရှင်း ဒီမှာ ပြီးပါပြီ",
     "en": "Free edition ends here"
   },
   "fg_lock_x": {
@@ -340,11 +340,11 @@
     "en": "The advanced chapters are in Standard and Premium."
   },
   "fg_see_full": {
-    "mm": "အပြည့်အစုံ လမ်းညွှန်ကို ကြည့်မယ်",
+    "mm": "အပြည့်အစုံ ကြည့်မယ်",
     "en": "See full guide"
   },
   "full_title": {
-    "mm": "အပြည့်အစုံ လမ်းညွှန် ရယူရန်",
+    "mm": "အပြည့်အစုံ ရယူရန်",
     "en": "Get Full Guide"
   },
   "full_intro": {
@@ -380,8 +380,8 @@
     "en": "Features"
   },
   "gal_title": {
-    "mm": "Screenshot ပုံများ",
-    "en": "Screenshots"
+    "mm": "ပုံများ",
+    "en": "Gallery"
   },
   "gal_count": {
     "mm": "ပုံ %d ပုံ။ ကြီးကြီးကြည့်ချင်ရင် နှိပ်ပါ။",
