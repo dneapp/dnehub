@@ -47,7 +47,7 @@
   {"id": "ss_17", "type": "image", "title": "17", "url": "pics/ss17.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
   {"id": "ss_18", "type": "image", "title": "18", "url": "pics/ss18.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
   {"id": "ss_19", "type": "image", "title": "19", "url": "pics/ss19.jpg", "thumb": "thumbs/thumbimg.png", "size": 0, "v": 1 },
-  {"id": "ss_lock", "type": "image", "title": "စမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbimg.png", "encrypted": true, "size": 0, "v": 1 }
+  {"id": "ss_lock", "type": "image", "title": "စမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbimg.png", "encrypted": true, "locked": true, "size": 0, "v": 1 }
 
 ],
    
@@ -56,7 +56,7 @@
 "db12c0cd0dd64c38": {
 
 "lch": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
-"ss_lock": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
+"ss_lock": "",
 "igwz": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "l01": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "img_intro": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
