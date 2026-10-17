@@ -24,7 +24,7 @@
 
  "media": [
 
-  {"id": "lch_i1", "type": "image", "title": "MRTV4", "url": "pics/ss01.jpg", "thumb": "thumbs/thumbimg.png", "encrypted": true, "locked": true, "gallery": false, "size": 0, "v": 1 },
+  {"id": "lch_i1", "type": "image", "title": "MRTV4", "url": "pics/ss01.jpg", "thumb": "thumbs/thumbimg.png", "gallery": false, "size": 0, "v": 1 },
    
   {"id": "img_intro", "type": "image", "title": "ပုံစမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbimg.png", "encrypted": true, "locked": true, "gallery": false, "size": 0, "v": 1 },
   {"id": "aud_intro", "type": "audio", "title": "အသံစမ်းသပ်", "url": "auds/enc/sample.mp3", "thumb" :"thumbs/thumbaud.webp", "encrypted": true, "locked": true, "size": 500000, "v": 1 },
@@ -56,6 +56,7 @@
  "access": {
 
 "db12c0cd0dd64c38": {
+
 "lch": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "ss_lock": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "igwz": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
