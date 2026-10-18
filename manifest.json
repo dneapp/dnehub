@@ -1,6 +1,6 @@
 {
   
-"screenshot_block": true,
+"screenshot_block": false,
 
 "update": { "version": 4, "name": "4.2", "url": "update/update.apk", "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" },
 
