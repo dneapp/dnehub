@@ -6,6 +6,11 @@
 
 "guide": { "mm": "docs/hypno_mm.md", "en": "docs/hypno_en.md" },
 
+"banners": [
+  { "id": "b1", "image": "pics/ss01.jpg", "title": "Welcome", "url": "https://example.com" },
+  { "id": "b2", "image": "pics/ss02.jpg", "title": "News", "url": "https://example.com" }
+],
+
 "files": [
   {"name": "docs/hypno_mm.md", "v": 1},
   {"name": "docs/hypno_en.md", "v": 1},
