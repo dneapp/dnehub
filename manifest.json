@@ -8,7 +8,7 @@
 
 "banners": [
   { "id": "b1", "image": "https://i.pinimg.com/736x/03/f1/bd/03f1bd92ebfc9b99f93cf3fdadb282a6.jpg", "title": "ကြိုဆိုပါတယ်", "url": "https://example.com" },
-  { "id": "b2", "image": "pics/ss02.jpg", "title": "News", "url": "https://example.com" }
+  { "id": "b2", "image": "https://i.pinimg.com/736x/06/ef/e2/06efe269fc10619a49fae949f5a9b863.jpg", "title": "လေ့လာပါ", "url": "https://example.com" }
 ],
 
 "files": [
