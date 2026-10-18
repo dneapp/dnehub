@@ -20,8 +20,8 @@
 ],
 
 "lessons": [
-  {"id": "lch", "lang": "mm", "title": "တီဗွီချန်နယ်", "summary": "ပြတာပဲကြည့်ကြပါ", "file": "lesn/enc/lch_mm.md", "encrypted": true, "locked": true, "v": 1 },
-  {"id": "l01", "lang": "mm", "title": "Layout အခြေခံ", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lesn/enc/l01_mm.md", "encrypted": true, "locked": true, "v": 1 },
+  {"id": "lch", "lang": "mm", "title": "တီဗွီ ချန်နယ်များ", "summary": "ပြတာပဲကြည့်ကြပါ", "file": "lesn/enc/lch_mm.md", "encrypted": true, "locked": true, "v": 1 },
+  {"id": "l01", "lang": "mm", "title": "လေ့ကျင့်စမ်းသပ်", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lesn/enc/l01_mm.md", "encrypted": true, "locked": true, "v": 1 },
   {"id": "l01", "lang": "en", "title": "Layout basics", "summary": "How to build a layout in the View editor", "file": "lesn/l01_en.md", "v": 1 },
   {"id": "l02", "lang": "mm", "title": "Button click event", "summary": "ခလုတ်နှိပ်ရင် ဘာဖြစ်မလဲ", "file": "lesn/l02_mm.md", "v": 1 },
   {"id": "l02", "lang": "en", "title": "Button click event", "summary": "What happens when a button is tapped", "file": "lesn/l02_en.md", "v": 1 }
@@ -29,9 +29,9 @@
 
  "media": [
    
-  {"id": "img_intro", "type": "image", "title": "ပုံစမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbi.png", "encrypted": true, "locked": true, "gallery": false, "size": 0, "v": 1 },
-  {"id": "aud_intro", "type": "audio", "title": "အသံစမ်းသပ်", "url": "auds/enc/sample.mp3", "thumb" :"thumbs/thumbaud.webp", "encrypted": true, "locked": true, "size": 500000, "v": 1 },
-  {"id": "vid_intro", "type": "video", "title": "Intro video", "url": "vids/enc/sample.mp4", "thumb":"thumbs/thumbvid.webp", "encrypted": true, "locked": true, "size": 5000000, "v": 1 },
+  {"id": "img_intro", "type": "image", "title": "ပုံ စမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbimg.png", "encrypted": true, "locked": true, "gallery": false, "size": 0, "v": 1 },
+  {"id": "aud_intro", "type": "audio", "title": "အသံ စမ်းသပ်", "url": "auds/enc/sample.mp3", "thumb" :"thumbs/thumbaud.webp", "encrypted": true, "locked": true, "size": 500000, "v": 1 },
+  {"id": "vid_intro", "type": "video", "title": "ဗီဒီယို စမ်းသပ်", "url": "vids/enc/sample.mp4", "thumb":"thumbs/thumbvid.webp", "encrypted": true, "locked": true, "size": 5000000, "v": 1 },
    
   {"id": "ss_01", "type": "image", "title": "01", "url": "pics/ss01.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_02", "type": "image", "title": "02", "url": "pics/ss02.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
@@ -62,7 +62,7 @@
 
 "accgen": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "lch": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
-"ss_lock": "",
+"ss_lock": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "igwz": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "l01": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "img_intro": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
