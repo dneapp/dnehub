@@ -7,7 +7,7 @@
 "guide": { "mm": "docs/hypno_mm.md", "en": "docs/hypno_en.md" },
 
 "banners": [
-  { "id": "b1", "image": "pics/ss01.jpg", "title": "Welcome", "url": "https://example.com" },
+  { "id": "b1", "image": "https://i.pinimg.com/736x/03/f1/bd/03f1bd92ebfc9b99f93cf3fdadb282a6.jpg", "title": "Welcome", "url": "https://example.com" },
   { "id": "b2", "image": "pics/ss02.jpg", "title": "News", "url": "https://example.com" }
 ],
 
