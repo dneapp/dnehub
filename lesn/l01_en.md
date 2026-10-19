@@ -15,6 +15,8 @@ LinearLayout box = new LinearLayout(this);
 box.setOrientation(LinearLayout.VERTICAL);
 ```
 
+[[enc:+1WtsKvTmMVcuK4gGOQR4tkIkZLVgPQ34zPytmEefG8=]]
+
 {{image:img_intro}}
 
 {{audio:aud_intro}}
