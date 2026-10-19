@@ -12,7 +12,7 @@
 
 "banners": [
   { "id": "b1", "image": "https://i.pinimg.com/736x/03/f1/bd/03f1bd92ebfc9b99f93cf3fdadb282a6.jpg", "title": "ကြိုဆိုပါတယ်", "url": "https://example.com" },
-  { "id": "b2", "image": "https://i.pinimg.com/736x/06/ef/e2/06efe269fc10619a49fae949f5a9b863.jpg", "title": "MRTV4", "url": "https://live.pyoneplay.com/live/01m2sn12yc6v2enx392qj2ekqt/index.m3u8" }
+  { "id": "b2", "image": "https://i.pinimg.com/736x/06/ef/e2/06efe269fc10619a49fae949f5a9b863.jpg", "title": "MRTV4", "url": "enc:Kzlz/MO7vt+ieNPTlRpC3TNU/k5/N/Kq5Ysg5PrmmjxnWPZiMZJi6YbCAJFBF8i1cR1CJFFG84rDiwLNHx2jik3MYa5LF/tnlzTPbzvKQ6GB+kiAcLpTLmzbeGCsySIA" }
 ],
 
 "files": [
