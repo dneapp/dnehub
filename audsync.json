@@ -1,9 +1,9 @@
 {
-  "dev": true,
+  "dev": false,
   "items": [
     {
       "title": "မင်္ဂလသုတ်",
-      "audio": "https://.../mingala.mp3",
+      "audio": "https://dneru.github.io/app/auds/audsync.mp3",
       "text": "ပထမပိုဒ်\nဒုတိယပိုဒ်",
       "marks": [800, 24500]
     },
