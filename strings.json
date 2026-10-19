@@ -8,8 +8,8 @@
     "en": "Lessons"
   },
   "nav_guide": {
-    "mm": "လမ်းညွှန်",
-    "en": "Guide"
+    "mm": "မာတိကာ",
+    "en": "Content"
   },
   "nav_gallery": {
     "mm": "ပုံများ",
@@ -108,8 +108,8 @@
     "en": "Start Learning"
   },
   "home_a1_t": {
-    "mm": "အခမဲ့ လမ်းညွှန် ကြည့်ရန်",
-    "en": "View Free Guide"
+    "mm": "မာတိကာများ ကြည့်ရန်",
+    "en": "View Contents"
   },
   "home_a1_d": {
     "mm": "ဒီမှာ ဖတ်ပါ၊ ဒါမှမဟုတ် ဒေါင်းလုဒ်လုပ်ပါ",
@@ -124,8 +124,8 @@
     "en": "%d screens and samples"
   },
   "home_a3_t": {
-    "mm": "အပြည့်အစုံ လမ်းညွှန် ရယူရန်",
-    "en": "Get Full Guide"
+    "mm": "မာတိကာ ရယူရန်",
+    "en": "Get Content"
   },
   "home_a3_d": {
     "mm": "Free၊ Standard၊ Premium နှိုင်းယှဉ်ကြည့်ပါ",
@@ -260,16 +260,16 @@
     "en": "Next"
   },
   "onb_last": {
-    "mm": "အခမဲ့ ဖန်တီးမှုသို့",
-    "en": "Explore the free version"
+    "mm": "စတင်မယ်",
+    "en": "Explore"
   },
   "free_edition": {
     "mm": "စာဖတ်ကြပါ",
     "en": "Let's read now"
   },
   "fg_tag": {
-    "mm": "အခမဲ့ ထုတ်ဝေမှု",
-    "en": "Free version"
+    "mm": "အခမဲ့",
+    "en": "Free"
   },
   "fg_title": {
     "mm": "A²⁴ အပြည့်အစုံ",
@@ -284,8 +284,8 @@
     "en": "This is the free. It shows the basiconly. The advanced chapters are in Standard and Premium."
   },
   "fg_dl": {
-    "mm": "အခမဲ့ ဒေါင်းမယ်",
-    "en": "Download Free"
+    "mm": "ဒေါင်းမယ်",
+    "en": "Download"
   },
   "fg_dling": {
     "mm": "ဒေါင်းနေသည် %d%%",
@@ -304,8 +304,8 @@
     "en": "Try again"
   },
   "fg_fail": {
-    "mm": "လမ်းညွှန်ကို သိမ်းလို့မရပါ။ %s",
-    "en": "Could not save the guide. %s"
+    "mm": "မာတိကာကို သိမ်းလို့မရပါ။ %s",
+    "en": "Could not save the content. %s"
   },
   "fg_perm_denied": {
     "mm": "သိမ်းဖို့ ခွင့်ပြုချက် ငြင်းထားပါတယ်။",
@@ -324,15 +324,15 @@
     "en": "Section %s"
   },
   "fg_back": {
-    "mm": "အခမဲ့ လမ်းညွှန်",
-    "en": "Free Edition"
+    "mm": "အကြောင်းအရာများ",
+    "en": "Contents"
   },
   "fg_missing": {
-    "mm": "လမ်းညွှန်ဖိုင် မရသေးပါ။ အင်တာနက်ချိတ်ပြီး app ကို ပြန်ဖွင့်ပါ။",
-    "en": "The guide has not been downloaded yet. Connect to the internet and reopen the app."
+    "mm": "မာတိကာများ မရသေးပါ။ အင်တာနက်ချိတ်ပြီး app ကို ပြန်ဖွင့်ပါ။",
+    "en": "The contents has not been downloaded yet. Connect to the internet and reopen the app."
   },
   "fg_lock_t": {
-    "mm": "အခမဲ့ ဗားရှင်း ဒီမှာ ပြီးပါပြီ",
+    "mm": "အခမဲ့များ ဒီမှာ ပြီးပါပြီ",
     "en": "Free edition ends here"
   },
   "fg_lock_x": {
