@@ -68,7 +68,7 @@ Different perspectives are natural. Through **learning, questioning, and discuss
 
 For suggestions or inquiries, please use the link below.
 
-[🌐 Suggestions / Contact](https://example.com)
+[🌐 Suggestions / Contact]([[enc:EgjBpjyaQQMYUSLCW25s+OuxeTb8u4A45Vs7UY0MRT7eJW4dkV65flRtr1vN0FS5]])
 
 ---
 
