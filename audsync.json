@@ -1,0 +1,9 @@
+{
+  "title": "မင်္ဂလသုတ်",
+  "audio": "https://yourserver.com/parit/mingala.mp3",
+  "text": "ပရိတ်စာအကုန်...",
+  "marks": [
+    {"t": 0, "pos": 0},
+    {"t": 25000, "pos": 120}
+  ]
+}
