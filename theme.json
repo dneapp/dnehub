@@ -1,7 +1,6 @@
 {
   "version": 1,
   "screens": {
-   # "onboard": { "bg": "https://dneru.github.io/app/theme/onboard.mp4", "type": "video" },
 
 "onboard": { "bg": "enc:wSYV+9Eh55YcXY/BE9NDkSrgkFIdxZLvMT/Is6C8XH8snRa2RRuJyNBeYxEB2dmTTL2aqRVIoHzUELSf33u8sg==", "type": "video" },
 
@@ -13,4 +12,5 @@
     "igwz": "https://dneru.github.io/app/theme/igwz.gif"
 },
   "colors": { "blue": "#2F6BFF", "yellow": "#FFC933" }
+}
 }
