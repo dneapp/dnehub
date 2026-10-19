@@ -28,12 +28,12 @@ The source states that hypnosis is not new. It describes evidence of its use in 
 
 
 ====
-2. Can Hypnosis Relieve or Eliminate Physical Pain?
+2. [[enc:n7qOXsxdCN0o64M/U1B68tiGZbRRtfnqENdbuCxlQhHCzKKB9LKplirmos0g2N6doirBx0qFQelEqiD9K2Q58mHYaxAXE3F1L4hYzBiXFU0=]]
 ====
 
 **Answer**
 
-The source says it can be used to relieve or eliminate pain. It gives historical examples involving Dr. Ward and Dr. Esdaille and notes that hypnosis has also been tested and used in connection with pain-free childbirth.
+[[enc:X+yUSGOZ9jF0JnQslyfdTuSF4wJZ515g05tpfZdYmPUPYu0sWJvtYEcw3RnOcQDuTKYkbWyYdsLqbHg9IY2qEq1ZchwMBTHQOmDaMZ4XYwvlzEdQ8U9aXCYjLGrQf3oyM/kItp3ZQk9Q8Li8HXcC6Iy6AizxeD2h+HAzxrPdCYTatv0euQ3us/6jWd0CVt61gHi0Qd6bQnEguzUkVpSN5CI0sh9VOpqBXjvKYDUZ8G4TTDmhBA47GmyOEigjKmxQTNP2BA010VdYgndaoSpEFNiBq3xv7oeSHbz1JzXXBtqZlD7tz3NIbYkONWSV48I8]]
 
 
 
