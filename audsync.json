@@ -3,7 +3,7 @@
   "items": [
     {
       "title": "မင်္ဂလသုတ်",
-      "audio": "https://dneru.github.io/app/auds/audsync.mp3",
+      "audio": "enc:Npe6wd4wax8U69ED0wwl0OhHhUjTmzSSkL1vqtjYV83dtW6g1Gyin5yZccQyNJNO4hjl6XblnYnVbNJwiXL88Q==",
       "text": "ပထမပိုဒ်\nဒုတိယပိုဒ်",
       "marks": [800, 24500]
     },
@@ -17,7 +17,7 @@
     },
     {
       "title": "အသံရော စာရော၊ scroll မသွားစေချင်",
-      "audio": "https://dneru.github.io/app/auds/audsync.mp3",
+      "audio": "enc:Npe6wd4wax8U69ED0wwl0OhHhUjTmzSSkL1vqtjYV83dtW6g1Gyin5yZccQyNJNO4hjl6XblnYnVbNJwiXL88Q==",
       "text": "စာအစုံ...",
       "autoscroll": false
     }
