@@ -13,8 +13,8 @@
 "guide": { "mm": "docs/hypno_mm.md", "en": "docs/hypno_en.md" },
 
 "banners": [
-  { "id": "b1", "image": "https://i.pinimg.com/736x/03/f1/bd/03f1bd92ebfc9b99f93cf3fdadb282a6.jpg", "title": "ကြိုဆိုပါတယ်", "url": "https://example.com" },
-  { "id": "b2", "image": "https://i.pinimg.com/736x/06/ef/e2/06efe269fc10619a49fae949f5a9b863.jpg", "title": "MRTV4", "url": "enc:Kzlz/MO7vt+ieNPTlRpC3TNU/k5/N/Kq5Ysg5PrmmjxnWPZiMZJi6YbCAJFBF8i1cR1CJFFG84rDiwLNHx2jik3MYa5LF/tnlzTPbzvKQ6GB+kiAcLpTLmzbeGCsySIA" }
+  { "id": "b1", "image": "emc:5GU9Z+fignOi8IiEbDpJ8eIvILUStkZjo9X+nMFjIpQ6+GzIBzNv2LLZPpb55Kuk0pKds53E4DRpFLHTQiFkVxI0prHXhhB1EdGc5bxpwpFtI2/PyqzGg60vug0q3WMF", "title": "ကြိုဆိုပါတယ်", "url": "https://example.com" },
+  { "id": "b2", "image": "enc:zUNU7oXlCT+LlWEKAk6URX2hFkHY3llhptHEqUMaWu28Cvbs7+ua5G/BVz7RwY4efudFncyaknB+N6lOEfCwkPFpKKcckASBRxJC2uMWv9PqGReGEM1EowMd9E7vCqNZ", "title": "MRTV4", "url": "enc:Kzlz/MO7vt+ieNPTlRpC3TNU/k5/N/Kq5Ysg5PrmmjxnWPZiMZJi6YbCAJFBF8i1cR1CJFFG84rDiwLNHx2jik3MYa5LF/tnlzTPbzvKQ6GB+kiAcLpTLmzbeGCsySIA" }
 ],
 
 "files": [
