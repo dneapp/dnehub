@@ -4,14 +4,14 @@
 
 "onboard": { "bg": "enc:wSYV+9Eh55YcXY/BE9NDkSrgkFIdxZLvMT/Is6C8XH8snRa2RRuJyNBeYxEB2dmTTL2aqRVIoHzUELSf33u8sg==", "type": "video" },
 
-    "home": { "bg": "https://dneru.github.io/app/theme/main.mp4", "type": "video" }
+    "home": { "bg": "enc:hmh/7zLg4mIMNrIk3WAVjHDIqaGIYPePsUFDCadiu+Xxhi/Ma9HPNtlEl3p8Q+AqQvzWKHkgWEkTyBcTvHym4Q==", "type": "video" }
   },
   "icons": {
 
     "quiz_bg":"",
-    "new": "https://dneru.github.io/app/theme/NewTag.json",
-    "logo": "https://dneru.github.io/app/theme/icon.gif",
-    "igwz": "https://dneru.github.io/app/theme/igwz.gif"
+    "new": "enc:VE/obiHkoPl4UVoRMZntHyMS2Ri7VslGVWSzlf43uv+/gX4U4HyPGRyUdLteD4D3Fv//9SsG+9KoLUWfyGHUqw==",
+    "logo": "enc:Vgm/BM0vhh8Ws++CYk9/d4W7N/WvKiUIBKcEn7c6Iti65BTtTRLu0+KscO73NtFlDJueTjlhw1yOWb8C9iik1w==",
+    "igwz": "enc:E/ra1xgBKh0EPG4QyiXIkJwC7SKudGBq5qPYv6gP0AJ90hQp2tvsT/7DK32OICAyq4qbACTPxWWhWVOK62pXxw=="
 },
   "colors": { "blue": "#2F6BFF", "yellow": "#FFC933" }
 }
