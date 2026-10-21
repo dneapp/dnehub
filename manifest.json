@@ -15,10 +15,10 @@
 "banners": [
   { "id": "b1", "image": "pics/enc/bnr1", "title": "ကြိုဆိုပါတယ်", "url": "https://example.com", "encrypted": true },
   { "id": "b2", "image": "pics/enc/bnr2", "encrypted": true, "title": "MRTV4", "url": "enc:Kzlz/MO7vt+ieNPTlRpC3TNU/k5/N/Kq5Ysg5PrmmjxnWPZiMZJi6YbCAJFBF8i1cR1CJFFG84rDiwLNHx2jik3MYa5LF/tnlzTPbzvKQ6GB+kiAcLpTLmzbeGCsySIA" },
-{ "id": "b3", "image": "pics/enc/bnr3", "encrypted": true, "title": "ကြိုဆိုပါတယ်", "url": "https://example.com" },
-{ "id": "b4", "image": "pics/encs/bnr4", "encrypted": true, "title": "ကြိုဆိုပါတယ်", "action_type": "web",
+{ "id": "b3", "image": "pics/enc/bnr3", "encrypted": true, "title": "ဘန်နာသုံး", "url": "https://example.com" },
+{ "id": "b4", "image": "pics/encs/bnr4", "encrypted": true, "title": "ဘန်နာလေး", "action_type": "web",
     "action_target": "https://example.com/news" },
-{ "id": "b5", "image": "pics/enc/bnr5", "title": "သင်ယူခြင်းများ", "action_type": "tab", "action_target": "lessons", "encrypted": true }
+{ "id": "b5", "image": "pics/enc/bnr5", "title": "‌လေ့ကျင့်ခန်းများ", "action_type": "tab", "action_target": "lessons", "encrypted": true }
 
 ],
 
