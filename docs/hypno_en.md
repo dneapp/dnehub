@@ -1,11 +1,11 @@
 ====
-The Ultimate A²⁴ Guide
+The Ultimate Aᵗᵉᵉlgo Guide
 Hypnosis
 ====
 
 🧠 Hypnosis
 
-**The Ultimate A²⁴ Guide**
+**The Ultimate Aᵗᵉᵉlgo Guide**
 
 21 Questions and Answers About Hypnosis
 
