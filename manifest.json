@@ -3,22 +3,22 @@
 "quiz": { "file": "others/q01", "encrypted": true, "locked": true, "v": 1, "time": 35, "maxError": 3 },
 
 "watermark": {
-  #"enc:moeYs5wmSbP4OnkQW0C2tDbg67n73nZq9Xt+8VsRDvaC2bmHXFO+mfs/xSN0uNlg "ပေါ်စေချင်တဲ့ စာ"
+  #"enc:moeYs5wmSbP4OnkQW0C2tDbg67n73nZq9Xt+8VsRDvaC2bmHXFO+mfs/xSN0uNlg "ဘေလ်ပေးဆောင်ရန်ကျန်ရှိနေသည်"
 },
-  
+
 "screenshot_block": false,
 
-"update": { "version": 4, "name": "4.2", "url": "update/update.apk", "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" },
+"update": { "version": 1, "name": "1.2", "url": "update/update.apk", "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" },
 
 "guide": { "mm": "docs/hypno_mm.md", "en": "docs/hypno_en.md" },
 
 "banners": [
-  { "id": "b1", "image": "https://www.dropbox.com/scl/fi/3ufnlxbmtx908g56aajox/a-HUB-1.png?rlkey=f78pjreadz4k2ar5ghlooy7ni&st=feghih7w&dl=1", "title": "ကြိုဆိုပါတယ်", "url": "https://example.com" },
-  { "id": "b2", "image": "https://i.pinimg.com/736x/03/f1/bd/03f1bd92ebfc9b99f93cf3fdadb282a6.jpg", "title": "MRTV4", "url": "enc:Kzlz/MO7vt+ieNPTlRpC3TNU/k5/N/Kq5Ysg5PrmmjxnWPZiMZJi6YbCAJFBF8i1cR1CJFFG84rDiwLNHx2jik3MYa5LF/tnlzTPbzvKQ6GB+kiAcLpTLmzbeGCsySIA" },
-{ "id": "b3", "image": "https://www.dropbox.com/scl/fi/3ufnlxbmtx908g56aajox/a-HUB-1.png?rlkey=f78pjreadz4k2ar5ghlooy7ni&st=feghih7w&dl=1", "title": "ကြိုဆိုပါတယ်", "url": "https://example.com" },
-{ "id": "b4", "image": "https://www.dropbox.com/scl/fi/3ufnlxbmtx908g56aajox/a-HUB-1.png?rlkey=f78pjreadz4k2ar5ghlooy7ni&st=feghih7w&dl=1", "title": "ကြိုဆိုပါတယ်", "action_type": "web",
+  { "id": "b1", "image": "pics/enc/bnr1", "title": "ကြိုဆိုပါတယ်", "url": "https://example.com", "encrypted": true },
+  { "id": "b2", "image": "pics/enc/bnr2", "encrypted": true, "title": "MRTV4", "url": "enc:Kzlz/MO7vt+ieNPTlRpC3TNU/k5/N/Kq5Ysg5PrmmjxnWPZiMZJi6YbCAJFBF8i1cR1CJFFG84rDiwLNHx2jik3MYa5LF/tnlzTPbzvKQ6GB+kiAcLpTLmzbeGCsySIA" },
+{ "id": "b3", "image": "pics/enc/bnr3", "encrypted": true, "title": "ကြိုဆိုပါတယ်", "url": "https://example.com" },
+{ "id": "b4", "image": "pics/encs/bnr4", "encrypted": true, "title": "ကြိုဆိုပါတယ်", "action_type": "web",
     "action_target": "https://example.com/news" },
-{ "id": "b5", "image": "pics/enc/enci1.jpg", "title": "ကြိုဆိုပါတယ်", "action_type": "tab",
+{ "id": "b5", "image": "pics/enc/bnr5", "title": "သင်ယူခြင်းများ", "action_type": "tab",
     "action_target": "lessons", "encrypted": true }
 
 ],
@@ -40,11 +40,11 @@
 ],
 
  "media": [
-   
+
   {"id": "img_intro", "type": "image", "title": "ပုံ စမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "locked": true, "gallery": false, "size": 0, "v": 1 },
   {"id": "aud_intro", "type": "audio", "title": "အသံ စမ်းသပ်", "url": "auds/enc/aud01.mp3", "thumb" :"thumbs/thumbaud.webp", "encrypted": true, "locked": true, "size": 500000, "v": 2 },
   {"id": "vid_intro", "type": "video", "title": "ဗီဒီယို စမ်းသပ်", "url": "vids/enc/sample.mp4", "thumb":"thumbs/thumbvid.webp", "encrypted": true, "locked": true, "size": 5000000, "v": 1 },
-   
+
   {"id": "ss_01", "type": "image", "title": "01", "url": "pics/ss01.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_02", "type": "image", "title": "02", "url": "pics/ss02.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_03", "type": "image", "title": "03", "url": "pics/ss03.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
@@ -67,7 +67,7 @@
   {"id": "ss_lock", "type": "image", "title": "စမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbi.png", "encrypted": true, "locked": true, "size": 0, "v": 1 }
 
 ],
-   
+
  "access": {
 
 "enc:moeYs5wmSbP4OnkQW0C2tDbg67n73nZq9Xt+8VsRDvaC2bmHXFO+mfs/xSN0uNlg": {
