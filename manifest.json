@@ -18,8 +18,7 @@
 { "id": "b3", "image": "pics/enc/bnr3", "encrypted": true, "title": "ကြိုဆိုပါတယ်", "url": "https://example.com" },
 { "id": "b4", "image": "pics/encs/bnr4", "encrypted": true, "title": "ကြိုဆိုပါတယ်", "action_type": "web",
     "action_target": "https://example.com/news" },
-{ "id": "b5", "image": "pics/enc/bnr5", "title": "သင်ယူခြင်းများ", "action_type": "tab",
-    "action_target": "lessons", "encrypted": true }
+{ "id": "b5", "image": "pics/enc/bnr5", "title": "သင်ယူခြင်းများ", "action_type": "tab", "action_target": "lessons", "encrypted": true }
 
 ],
 
