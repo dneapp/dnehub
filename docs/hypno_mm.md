@@ -1,5 +1,5 @@
 ====
-The Ultimate A²⁴ Guide
+The Ultimate Aᵗᵉᵉlgo Guide
 စိတ်ညှို့အိပ်မွေ့ချခြင်း
 ====
 
