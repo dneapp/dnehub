@@ -2,7 +2,7 @@
   "version": 1,
   "screens": {
 
-"onboard": { "bg": "enc:wSYV+9Eh55YcXY/BE9NDkSrgkFIdxZLvMT/Is6C8XH8snRa2RRuJyNBeYxEB2dmTTL2aqRVIoHzUELSf33u8sg==", "type": "video" },
+"onboard": { "bg": "GZfbl6CABCdw1rCJUE5ge1slNtCfuEu0M8BDEXpl2mdaXL7xIFw8aHzi7KR89wzGEklRl+EhZaj57+bt5lNCHHxEcDen63C4FeLOkCyEKjk=", "type": "video" },
 
     "home": { "bg": "enc:hmh/7zLg4mIMNrIk3WAVjHDIqaGIYPePsUFDCadiu+Xxhi/Ma9HPNtlEl3p8Q+AqQvzWKHkgWEkTyBcTvHym4Q==", "type": "video" }
   },
