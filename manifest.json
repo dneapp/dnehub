@@ -1,6 +1,6 @@
 {
 
-"quiz": { "file": "others/q01", "encrypted": true, "locked": true, "v": 1, "time": 35, "maxError": 3 },
+"quiz": { "file": "others/q01", "encrypted": true, "v": 1, "time": 35, "maxError": 3 },
 
 "watermark": {
   #"enc:moeYs5wmSbP4OnkQW0C2tDbg67n73nZq9Xt+8VsRDvaC2bmHXFO+mfs/xSN0uNlg "ဘေလ်ပေးဆောင်ရန်ကျန်ရှိနေသည်"
@@ -71,7 +71,7 @@
 
 "enc:moeYs5wmSbP4OnkQW0C2tDbg67n73nZq9Xt+8VsRDvaC2bmHXFO+mfs/xSN0uNlg": {
 
-"qplay": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
+#"qplay": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "audsync": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "accgen": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 
