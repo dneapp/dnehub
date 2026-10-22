@@ -31,8 +31,6 @@
 ],
 
 "lessons": [
-  
-{ "id": "pdf01", "type": "doc", "title": "ဖြေမြင့်", "url": "pdfs/enc/pdf01.pdf", "encrypted": true, "locked": true, "v": 1 },
 
   {"id": "lch", "lang": "mm", "title": "တီဗွီ ချန်နယ်များ", "summary": "ပြတာပဲကြည့်ကြပါ", "file": "lesn/enc/lch_mm.md", "encrypted": true, "locked": true, "v": 1 },
   {"id": "l01", "lang": "mm", "title": "လေ့ကျင့်စမ်းသပ်", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lesn/enc/l01_mm.md", "encrypted": true, "locked": true, "v": 1 },
@@ -74,7 +72,6 @@
 
 "enc:moeYs5wmSbP4OnkQW0C2tDbg67n73nZq9Xt+8VsRDvaC2bmHXFO+mfs/xSN0uNlg": {
 
-"pdf01": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "pdfreader": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "qplay": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "audsync": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
