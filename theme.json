@@ -2,9 +2,10 @@
 
 
 "devices": {
-  "enc:<device id ၁၆ လုံးကို encrypt လုပ်ထားတာ>": {
+  "enc:moeYs5wmSbP4OnkQW0C2tDbg67n73nZq9Xt+8VsRDvaC2bmHXFO+mfs/xSN0uNlg": {
     "screens": {
-      "home": { "bg": "enc:ObS3pmVD+oLmWNLjbIbLHIoPJCMhslFq8L1OI24Q53qbfyrOVI4ar5qVFy9EttJGhU2NdyMfXHn/ax4Orrrrp1GbhljkaI7WJW/cJtMQYQS4e9XKp/wKLO8hKPB3UzcLKxUE2B68Lji323I9MflYa1BgN99YncfPFJSTZ1lutrX35BbOek18Y10660e/UhGK", "type": "video" }
+      
+"home": { "bg": "enc:ObS3pmVD+oLmWNLjbIbLHIoPJCMhslFq8L1OI24Q53qbfyrOVI4ar5qVFy9EttJGhU2NdyMfXHn/ax4Orrrrp1GbhljkaI7WJW/cJtMQYQS4e9XKp/wKLO8hKPB3UzcLKxUE2B68Lji323I9MflYa1BgN99YncfPFJSTZ1lutrX35BbOek18Y10660e/UhGK", "type": "video" }
 
 
     }
