@@ -32,7 +32,7 @@
 
 "lessons": [
 
-   {"id": "pdf01", "lang": "mm", "title": "အလောင်းတရားကြီး", "summary": "ဘန်ကောက်လို့ ဘာလို့ခေါ်လဲ", "kind": "pdf", "file": "pdfs/enc/pdf01", "encrypted": true, "locked": false, "v": 1 },
+   {"id": "pdf01", "lang": "mm", "title": "အလောင်းတရားကြီး", "summary": "ဘန်ကောက်လို့ ဘာလို့ခေါ်လဲ", "kind": "pdf", "file": "pdfs/enc/pdf01", "encrypted": true, "locked": true, "v": 1 },
 
   {"id": "lch", "lang": "mm", "title": "တီဗွီ ချန်နယ်များ", "summary": "ပြတာပဲကြည့်ကြပါ", "file": "lesn/enc/lch_mm.md", "encrypted": true, "locked": true, "v": 1 },
   {"id": "l01", "lang": "mm", "title": "လေ့ကျင့်စမ်းသပ်", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lesn/enc/l01_mm.md", "encrypted": true, "locked": true, "v": 1 },
