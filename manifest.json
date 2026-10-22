@@ -32,6 +32,10 @@
 
 "lessons": [
 
+   {"id": "hacker", "lang": "mm", "title": "ဟက်ကာလက်စွဲ", "summary": "ဘန်ကောက်လို့ ဘာလို့ခေါ်လဲ", "type": "pdf", "file": "pdfs/enc/hacker.pdf", "encrypted": true, "locked": true, "v": 1 },
+
+   {"id": "hypno", "lang": "mm", "title": "အိပ်မွေ့ချ", "summary": "ဘန်ကောက်လို့ ဘာလို့ခေါ်လဲ", "type": "pdf", "file": "pdfs/enc/hypno.pdf", "encrypted": true, "locked": true, "v": 1 },
+
    {"id": "pdf01", "lang": "mm", "title": "အလောင်းတရားကြီး", "summary": "ဘန်ကောက်လို့ ဘာလို့ခေါ်လဲ", "type": "pdf", "file": "pdfs/enc/pdf_01.pdf", "encrypted": true, "locked": true, "v": 1 },
 
   {"id": "lch", "lang": "mm", "title": "တီဗွီ ချန်နယ်များ", "summary": "ပြတာပဲကြည့်ကြပါ", "file": "lesn/enc/lch_mm.md", "encrypted": true, "locked": true, "v": 1 },
