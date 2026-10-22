@@ -43,6 +43,8 @@
 
  "media": [
 
+{"id": "pdf01", "type": "pdf", "title": "ပုံ စမ်းသပ်", "url": "pdfs/enc/pdf01.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "locked": true, "size": 0, "v": 1 },
+
   {"id": "img_intro", "type": "image", "title": "ပုံ စမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "locked": true, "gallery": false, "size": 0, "v": 1 },
   {"id": "aud_intro", "type": "audio", "title": "အသံ စမ်းသပ်", "url": "auds/enc/aud01.mp3", "thumb" :"thumbs/thumbaud.webp", "encrypted": true, "locked": true, "size": 500000, "v": 2 },
   {"id": "vid_intro", "type": "video", "title": "ဗီဒီယို စမ်းသပ်", "url": "vids/enc/sample.mp4", "thumb":"thumbs/thumbvid.webp", "encrypted": true, "locked": true, "size": 5000000, "v": 1 },
