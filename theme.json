@@ -4,8 +4,10 @@
 
 "onboard": { "bg": "enc:GZfbl6CABCdw1rCJUE5ge1slNtCfuEu0M8BDEXpl2mdaXL7xIFw8aHzi7KR89wzGEklRl+EhZaj57+bt5lNCHHxEcDen63C4FeLOkCyEKjk=", "type": "video" },
 
-    "home": { "bg": "enc:KSEip8Z1X0ZVr/sZIAtWStTzCnejvvk88/MvqpnYm5Jb6Kk1ukGZiwYLGj0Apqf/SKCb/YNbxXUx/tSXW2mbJA==", "type": "video" }
+#"home": { "bg": "enc:KSEip8Z1X0ZVr/sZIAtWStTzCnejvvk88/MvqpnYm5Jb6Kk1ukGZiwYLGj0Apqf/SKCb/YNbxXUx/tSXW2mbJA==", "type": "video" }
   },
+
+
   "icons": {
 
     "quiz_bg":"",
@@ -15,5 +17,5 @@
     "logo": "enc:PBxI4qYOA+JTbGWwsAqY13hdeMy+pN9EtyRvHkctdZqvHRz+GNL5PO9Kf/u+6hsRLtwIB8kGjn+LVEk8sY2VYQ==",
     "igwz": "enc:pNsZuQHxPJhP7EKxSixrcbc21mkbVivB2VnIFP22Sgl84ZdUySlv91/FYPhrFlKklf/+GYSOmflSMMJjUpG8VA=="
 },
-  "colors": { "blue": "#2F6BFF", "yellow": "#FFC933" }
+    "colors": { "blue": "#2F6BFF", "yellow": "#FFC933" }
 }
