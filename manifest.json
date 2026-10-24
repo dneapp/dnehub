@@ -1,5 +1,7 @@
 {
 
+"audsync_url": "enc:jJaUeXtdigrbkVUvxiKJ8qr3TKm9rbDMixtgsvDFl6RwNh3cdm2aL3gyCx3bkwQnlpJp0R1OHQDJEpkzNUtGzw==",
+
 "quiz": { "file": "others/q01", "encrypted": true, "v": 1, "time": 35, "maxError": 3 },
 
 "watermark": {
