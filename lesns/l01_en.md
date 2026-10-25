@@ -22,5 +22,3 @@ box.setOrientation(LinearLayout.VERTICAL);
 {{audio:aud_intro}}
 
 {{video:vid_intro}}
-
-{{pdf:pdf01}}
