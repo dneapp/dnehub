@@ -2,11 +2,11 @@
 
 "audsync_url": "enc:jJaUeXtdigrbkVUvxiKJ8qr3TKm9rbDMixtgsvDFl6RwNh3cdm2aL3gyCx3bkwQnlpJp0R1OHQDJEpkzNUtGzw==",
 
-"maharb": { "file": "docs/enc/mhb", "encrypted": true, "v": 1 },
+"maharb": { "file": "docs/enc/a24mhb", "encrypted": true, "v": 1 },
 
-"ttpn": { "file": "docs/enc/ttpn", "encrypted": true, "v": 1 },
+"ttpn": { "file": "docs/enc/a24ttpn", "encrypted": true, "v": 1 },
 
-"gpsy": { "file": "docs/enc/gpsy", "encrypted": true, "v": 1 },
+"gpsy": { "file": "docs/enc/a24gpsy", "encrypted": true, "v": 1 },
 
 "quiz": { "file": "others/quiz", "encrypted": true, "v": 1, "time": 35, "maxError": 3 },
 
