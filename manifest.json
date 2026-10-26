@@ -1,5 +1,13 @@
 {
 
+
+"books": {
+
+  "bookone": { "title": "စာအုပ်အမည်", "file": "docs/enc/book_01", "encrypted": true, "locked": true, "v": 1 },
+  "booktwo": { "title": "...", "file": "docs/enc/book_02", "encrypted": true, "locked": false, "v": 1 }
+
+},
+
 "audsync_url": "enc:jJaUeXtdigrbkVUvxiKJ8qr3TKm9rbDMixtgsvDFl6RwNh3cdm2aL3gyCx3bkwQnlpJp0R1OHQDJEpkzNUtGzw==",
 
 "maharb": { "file": "docs/enc/a24mhb", "encrypted": true, "v": 1 },
