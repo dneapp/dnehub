@@ -8,7 +8,7 @@
 
 "gpsy": { "file": "docs/enc/a24gpsy", "encrypted": true, "v": 1 },
 
-"quiz": { "file": "others/quiz", "encrypted": true, "v": 1, "time": 35, "maxError": 3 },
+"quiz": { "file": "others/quiz", "encrypted": true, "locked": true, "v": 1, "time": 35, "maxError": 3 },
 
 "watermark": {
   "enc:moeYs5wmSbP4OnkQW0C2tDbg67n73nZq9Xt+8VsRDvaC2bmHXFO+mfs/xSN0uNlg": "စာဖတ်ခြင်းက အသိဉာဏ်ကို အားဖြစ်စေပါသည်"
