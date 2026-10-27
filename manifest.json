@@ -3,7 +3,7 @@
 
 "books": [
 
-  { "id": "uztk", "file": "docs/enc/book_01", "title": "ခေါင်းစဉ်", "image": "", "encrypted": true, "locked": true, "v": 1 },
+  { "id": "uztk", "file": "docs/enc/uztk", "title": "ခေါင်းစဉ်", "image": "", "encrypted": true, "locked": true, "v": 1 },
   { "id": "booktwo", "file": "docs/enc/book_02", "title": "ခေါင်းစဉ် ၂", "image": "", "encrypted": true, "locked": true, "v": 1 }
 
 ],
@@ -94,6 +94,7 @@
 
 "enc:moeYs5wmSbP4OnkQW0C2tDbg67n73nZq9Xt+8VsRDvaC2bmHXFO+mfs/xSN0uNlg": {
 
+"uztk": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "apos": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "quiz": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 "hypno": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw\/TPdBJ\/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
