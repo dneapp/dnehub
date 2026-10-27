@@ -4,7 +4,7 @@
 "books": [
 
   { "id": "bookone", "file": "docs/enc/book_01", "title": "ခေါင်းစဉ်", "image": "", "encrypted": true, "locked": true, "v": 1 },
-  { "id": "booktwo", "file": "docs/enc/book_02", "title": "ခေါင်းစဉ် ၂", "image": "", "encrypted": true, "locked": false, "v": 1 }
+  { "id": "booktwo", "file": "docs/enc/book_02", "title": "ခေါင်းစဉ် ၂", "image": "", "encrypted": true, "locked": true, "v": 1 }
 
 ],
 
