@@ -4,7 +4,7 @@
 "books": [
 
   { "id": "uztk", "file": "docs/enc/uztk", "title": "ဆရာတော် ဦးဇောတိက", "image": "", "encrypted": true, "locked": true, "v": 1 },
-  { "id": "igwzb", "file": "docs/enc/igwz", "title": "အင်္ဂဝိဇ္ဇာပညာ", "image": "enc:lYkWMoxkDi/xGsPbv6i9OQL2B5NbFwAuNXrShZBAtjSkV5u3MrZCR9PYs2LVMK71V7j3QixEzwJ/fYhu21ZpNPLibwzPE+UZPqFGmmywNzYeX6kV/T6CLklGgSKD6Wt0", "encrypted": true, "locked": true, "v": 1 }
+  { "id": "igwzb", "file": "docs/enc/igwz", "title": "အင်္ဂဝိဇ္ဇာပညာ", "image": "https://i.pinimg.com/736x/a9/29/82/a92982615d50230c90e46056c6a89c54.jpg", "encrypted": true, "locked": true, "v": 1 }
 
 ],
 
