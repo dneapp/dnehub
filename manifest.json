@@ -1,8 +1,12 @@
 {
 
 
-"books": ["bookone", "booktwo"],
-"bookone": { "file": "docs/enc/book_01", "title": "ခေါင်းစဉ်", "image": "enc link/blank", "encrypted": true, "locked": true, "v": 1 },
+"books": [
+
+  { "id": "bookone", "file": "docs/enc/book_01", "title": "ခေါင်းစဉ်", "image": "", "encrypted": true, "locked": true, "v": 1 },
+  { "id": "booktwo", "file": "docs/enc/book_02", "title": "ခေါင်းစဉ် ၂", "image": "", "encrypted": true, "locked": false, "v": 1 }
+
+],
 
 "audsync_url": "enc:jJaUeXtdigrbkVUvxiKJ8qr3TKm9rbDMixtgsvDFl6RwNh3cdm2aL3gyCx3bkwQnlpJp0R1OHQDJEpkzNUtGzw==",
 
