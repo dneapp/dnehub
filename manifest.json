@@ -4,7 +4,8 @@
 "books": [
 
   { "id": "uztk", "file": "docs/enc/uztk", "title": "ဆရာတော် ဦးဇောတိက", "encrypted": true, "locked": true, "v": 1 },
-  { "id": "igwzb", "file": "docs/enc/igwz", "title": "အင်္ဂဝိဇ္ဇာပညာ", "encrypted": true, "locked": true, "v": 1 }
+  { "id": "igwzb", "file": "docs/enc/igwz", "title": "အင်္ဂဝိဇ္ဇာပညာ", "encrypted": true, "locked": true, "v": 1 },
+  { "id": "12months", "file": "docs/enc/12la", "title": "ဆယ်နှစ်လ", "encrypted": true, "locked": false, "v": 1 }
 
 ],
 
