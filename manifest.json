@@ -3,8 +3,8 @@
 
 "books": [
 
-  { "id": "uztk", "file": "docs/enc/uztk", "title": "ခေါင်းစဉ်", "image": "", "encrypted": true, "locked": true, "v": 1 },
-  { "id": "booktwo", "file": "docs/enc/book_02", "title": "ခေါင်းစဉ် ၂", "image": "", "encrypted": true, "locked": true, "v": 1 }
+  { "id": "uztk", "file": "docs/enc/uztk", "title": "ဆရာတော် ဦးဇောတိက", "image": "", "encrypted": true, "locked": true, "v": 1 },
+  { "id": "igwzb", "file": "docs/enc/igwz", "title": "အင်္ဂဝိဇ္ဇာပညာ", "image": "", "encrypted": true, "locked": true, "v": 1 }
 
 ],
 
