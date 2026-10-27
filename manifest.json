@@ -39,7 +39,7 @@
 ],
 
 "files": [
-  {"name": "docs/enc/hypno_mm.md", "encrypted": true, "v": 1},
+  {"name": "docs/hypno_mm.md", "encrypted": true, "v": 1},
   {"name": "docs/hypno_en.md", "v": 1},
   {"name": "strings.json", "v": 1},
   {"name": "docs/about_mm.md", "v": 1},
