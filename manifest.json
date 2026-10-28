@@ -1,5 +1,6 @@
 {
 
+"media_file": "media.json",
 
 "books": [
 
@@ -60,35 +61,6 @@
   {"id": "l01", "lang": "en", "title": "Layout basics", "summary": "How to build a layout in the View editor", "file": "lesns/l01_en.md", "v": 1 },
   {"id": "l02", "lang": "mm", "title": "Button click event", "summary": "ခလုတ်နှိပ်ရင် ဘာဖြစ်မလဲ", "file": "lesns/l02_mm.md", "v": 1 },
   {"id": "l02", "lang": "en", "title": "Button click event", "summary": "What happens when a button is tapped", "file": "lesns/l02_en.md", "v": 1 }
-],
-
- "media": [
-
-  {"id": "img_intro", "type": "image", "title": "ပုံ စမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbimg.webp", "encrypted": true, "locked": true, "gallery": false, "size": 0, "v": 1 },
-  {"id": "aud_intro", "type": "audio", "title": "အသံ စမ်းသပ်", "url": "auds/enc/aud01.mp3", "thumb" :"thumbs/thumbaud.webp", "encrypted": true, "locked": true, "size": 500000, "v": 2 },
-  {"id": "vid_intro", "type": "video", "title": "ဗီဒီယို စမ်းသပ်", "url": "vids/enc/sample.mp4", "thumb":"thumbs/thumbvid.webp", "encrypted": true, "locked": true, "size": 5000000, "v": 1 },
-
-  {"id": "ss_01", "type": "image", "title": "01", "url": "pics/ss01.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_02", "type": "image", "title": "02", "url": "pics/ss02.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_03", "type": "image", "title": "03", "url": "pics/ss03.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_04", "type": "image", "title": "04", "url": "pics/ss04.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_05", "type": "image", "title": "05", "url": "pics/ss05.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_06", "type": "image", "title": "06", "url": "pics/ss06.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_07", "type": "image", "title": "07", "url": "pics/ss07.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_08", "type": "image", "title": "08", "url": "pics/ss08.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_09", "type": "image", "title": "09", "url": "pics/ss09.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_10", "type": "image", "title": "10", "url": "pics/ss10.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_11", "type": "image", "title": "11", "url": "pics/ss11.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_12", "type": "image", "title": "12", "url": "pics/ss12.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_13", "type": "image", "title": "13", "url": "pics/ss13.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_14", "type": "image", "title": "14", "url": "pics/ss14.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_15", "type": "image", "title": "15", "url": "pics/ss15.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_16", "type": "image", "title": "16", "url": "pics/ss16.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_17", "type": "image", "title": "17", "url": "pics/ss17.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_18", "type": "image", "title": "18", "url": "pics/ss18.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_19", "type": "image", "title": "19", "url": "pics/ss19.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_lock", "type": "image", "title": "စမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbi.png", "encrypted": true, "locked": true, "size": 0, "v": 1 }
-
 ],
 
 "access": {
