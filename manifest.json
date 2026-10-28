@@ -1,7 +1,8 @@
 {
 
 "player": [
-  { "id": "usl", "file": "docs/usl.json", "title": "မေးခွန်းများ", "encrypted": true, "locked": false, "v": 1 },
+  { "id": "usl", "file": "docs/usl.json", "title": "မေးခွန်းများ", "encrypted": true, "locked": false, "v": 1 }
+],
 
 "media_file": "misc/media.json",
 
