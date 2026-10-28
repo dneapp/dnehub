@@ -5,7 +5,7 @@
 "lessons_file": "misc/lessons.json",
 
 #"player": [
-#  { "id": "usl", "file": "docs/enc/usl", #"title": "မေးခွန်းများ", "encrypted": true, #"locked": false, "v": 1 }
+#  {"id": "usl", "file": "docs/enc/usl", #"title": "မေးခွန်းများ", "encrypted": true, #"locked": false, "v": 1}
 #],
 
 "books": [
