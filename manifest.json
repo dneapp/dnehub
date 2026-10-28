@@ -4,10 +4,6 @@
 
 "lessons_file": "misc/lessons.json",
 
-#"player": [
-#  {"id": "usl", "file": "docs/enc/usl", #"title": "မေးခွန်းများ", "encrypted": true, #"locked": false, "v": 1}
-#],
-
 "books": [
 
   { "id": "uztk", "file": "docs/enc/uztk", "title": "ဆရာတော် ဦးဇောတိက", "encrypted": true, "locked": true, "v": 1 },
@@ -64,7 +60,7 @@
   },
 "enc:Sn7VdqYL6JyPnMHqFKT701PQAI3A+RGTDSOAxdAGZ9YDDKvtTa++aa8/WnBFQkdq": {
 
-"value": "w1:m0PScLSHSy1YQcuv+uraAsN4OhL\/gR\/ia86VgizkhySaf\/s5KwAA5lno2tA=",
+"value": "w1:MvoUwN50l3trdixkCxWoVK5TD2Zi8lqlkS7Q4U1Y\/rQeufAPNkDOWMGJaxY=",
 
 "keys": [ "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "l01", "img_intro", "aud_intro", "vid_intro" ]
 
