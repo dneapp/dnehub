@@ -50,13 +50,9 @@
   {"name": "docs/about_en.md", "v": 1}
 ],
 
-"access": {
-
-"enc:N8S0jSgAqCEyPiXjwa4iWWAi8y11iNicoNR+T3J38hZJToor67fHx3hB2qY8lOpm": {
-
-"value": "w1:7AUPCpoVsnmCwQWDZV3O92onsr\/vEKMFYn6cLJxXuEDJIM4zfynyEwJ5xwU=",
-
-"keys": [ "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "l01", "img_intro", "aud_intro", "vid_intro" ]
+"access": { "d5848aace5235561": {
+  "l01": "w1:uLQ2yCJ22peKe8orfHnVQArQ6GKwkgPitzVvlfS4xSgWUz65toVCBSwcqA0="
+}
 
   }
 
