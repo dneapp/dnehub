@@ -168,19 +168,19 @@
     "en": "%s of %s"
   },
   "lessons_title": {
-    "mm": "သင်ခန်းစာများ",
+    "mm": "အာဘော်များ",
     "en": "Lessons"
   },
   "lessons_empty": {
-    "mm": "သင်ခန်းစာ မရှိသေးပါ။ အင်တာနက်ချိတ်ပြီး တစ်ကြိမ် ဖွင့်ပါ။",
+    "mm": "အာဘော်များ မရှိသေးပါ။ အင်တာနက်ချိတ်ပြီး တစ်ကြိမ် ဖွင့်ပါ။",
     "en": "No lessons yet. Connect to the internet once to load them."
   },
   "lesson_default": {
-    "mm": "သင်ခန်းစာ",
+    "mm": "အယ်ဒီတာ့ အာဘော်",
     "en": "Lesson"
   },
   "lesson_not_loaded": {
-    "mm": "ဒီသင်ခန်းစာကို မဒေါင်းရသေးပါ။ အင်တာနက်ချိတ်ပြီး app ကို ပြန်ဖွင့်ပါ။",
+    "mm": "အာဘော်များကို မဒေါင်းရသေးပါ။ အင်တာနက်ချိတ်ပြီး app ကို ပြန်ဖွင့်ပါ။",
     "en": "This lesson has not been downloaded yet. Connect to the internet and reopen the app."
   },
   "media_missing": {
@@ -272,15 +272,15 @@
     "en": "Free"
   },
   "fg_title": {
-    "mm": "Aᵗᵉᵉlgo အပြည့်အစုံ",
-    "en": "Aᵗᵉᵉlgo Ultimate"
+    "mm": "Aᵗᵉᵉlgo",
+    "en": "Aᵗᵉᵉlgo"
   },
   "fg_sub": {
     "mm": "ဒေါင်းပြီးရင် အော့ဖ်လိုင်းမှာ ဖတ်လို့ရတယ်",
     "en": "Works offline once downloaded"
   },
   "fg_note": {
-    "mm": "ဒါက အခမဲ့ ဗားရှင်းပါ။ Aᵗᵉᵉlgo နဲ့ အခြေခံကိုသာ ပြထားခြင်းဖြစ်သည်။ အဆင့်မြင့် အခန်းတွေကို Standard နဲ့ Premium မှာ လေ့လာနိုင်သည်",
+    "mm": "ဒါက အခမဲ့ ဗားရှင်းပါ။ Aᵗᵉᵉlgo နဲ့ အခြေခံကိုသာ ပြထားခြင်းဖြစ်သည်။ အဆင့်မြင့် အခန်းတွေကို Standard နဲ့ Premium မှာ လေ့လာနိုင်ပါသည်",
     "en": "This is the free. It shows the basiconly. The advanced chapters are in Standard and Premium."
   },
   "fg_dl": {
@@ -332,7 +332,7 @@
     "en": "The contents has not been downloaded yet. Connect to the internet and reopen the app."
   },
   "fg_lock_t": {
-    "mm": "အခမဲ့များ ဒီမှာ ပြီးပါပြီ",
+    "mm": "အခမဲ့အတွက် ဒီမှာ ပြီးပါပြီ",
     "en": "Free edition ends here"
   },
   "fg_lock_x": {
@@ -356,7 +356,7 @@
     "en": "Get the full guide on WEB"
   },
   "full_cap": {
-    "mm": "Browser မှာ ဖွင့်မယ်",
+    "mm": "Browser နဲ့ ဖွင့်မယ်",
     "en": "Opens WEB in your browser"
   },
   "full_no_browser": {
