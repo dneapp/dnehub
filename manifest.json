@@ -4,6 +4,10 @@
 
 "lessons_file": "misc/lessons.json",
 
+"player": [
+  { "id": "usl", "file": "docs/enc/usl", "title": "မေးခွန်းများ", "encrypted": true, "locked": false, "v": 1 }
+],
+
 "books": [
 
   { "id": "uztk", "file": "docs/enc/uztk", "title": "ဆရာတော် ဦးဇောတိက", "encrypted": true, "locked": true, "v": 1 },
