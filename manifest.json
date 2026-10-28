@@ -51,20 +51,7 @@
 ],
 
 "access": {
- "enc:DEOtFxaSsETpoD9XpFuaN+qZtaS03YltX4Mdgfe5cZQ0X9egAUfOK/9XUU9gTiPV": {
-
-"value": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw/TPdBJ/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
-
-"keys": [ "l01", "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "img_intro", "aud_intro", "vid_intro" ]
-
-  },
-"enc:0X7X0NhzSnMC8gisu8HHuib6B5OmZNI6ITesGKInd3XzQQYrdtR2GVs8AkMXOPIt": {
-
-"value": "w1:OgARMlBCEV+hPh8BlZVWzUX203B8iRyV646UN4\/4g9ctkmHDcV\/uAaX52yk=",
-
-"keys": [ "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "l01", "img_intro", "aud_intro", "vid_intro" ]
-
-  },
+ "
 
 "enc:N8S0jSgAqCEyPiXjwa4iWWAi8y11iNicoNR+T3J38hZJToor67fHx3hB2qY8lOpm": {
 
