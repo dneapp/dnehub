@@ -50,10 +50,24 @@
   {"name": "docs/about_en.md", "v": 1}
 ],
 
-"access": { "d5848aace5235561": {
-  "l01": "w1:uLQ2yCJ22peKe8orfHnVQArQ6GKwkgPitzVvlfS4xSgWUz65toVCBSwcqA0="
-}
+"access": {
+ "enc:DEOtFxaSsETpoD9XpFuaN+qZtaS03YltX4Mdgfe5cZQ0X9egAUfOK/9XUU9gTiPV": {
 
+"value": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw/TPdBJ/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
+
+"keys": [ "l01", "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "img_intro", "aud_intro", "vid_intro" ]
+
+  },
+  
+  "access": {
+ "d5848aace5235561": {
+
+"value": "w1:uLQ2yCJ22peKe8orfHnVQArQ6GKwkgPitzVvlfS4xSgWUz65toVCBSwcqA0=",
+
+"keys": [ "l01", "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "img_intro", "aud_intro", "vid_intro" ]
+
+  }
+  
   }
 
 
