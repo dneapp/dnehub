@@ -1,7 +1,7 @@
 {
 
 "player": [
-  { "id": "usl", "file": "docs/usl.json", "title": "မေးခွန်းများ", "encrypted": false, "locked": true, "v": 1 }
+  { "id": "narsin", "file": "docs/usl.json", "title": "နားဆင်စရာများ", "encrypted": false, "locked": true, "v": 1 }
 ],
 
 "media_file": "misc/media.json",
@@ -59,19 +59,19 @@
 
 "value": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw/TPdBJ/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 
-"keys": [ "l01", "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "img_intro", "aud_intro", "vid_intro" ] },
+"keys": [ "narsin", "l01", "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "img_intro", "aud_intro", "vid_intro" ] },
 
 "d5848aace5235561": {
 
 "value": "w1:X+oIO59NaZllyQat\/rHXE9f25eEEwySsroi0EAH2nMmQLVMCLRKLDHkTyKs=",
 
-"keys": [ "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "l01", "img_intro", "aud_intro", "vid_intro" ] },
+"keys": [ "narsin", "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "l01", "img_intro", "aud_intro", "vid_intro" ] },
 
 "enc:UF/XDNMDQVt4WHMa9Dw92QrT9gR6eg1z+x+F2DfhoTgjydt8JO6hFRJzb4TAALom": {
 
 "value": "w1:ji+91BahnIlTKhfdeBdgSOh63YopQUPH4rDMugSkCz\/+V6QnWoBnKHS4Qes=",
 
-"keys": [ "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "l01", "img_intro", "aud_intro", "vid_intro" ] }
+"keys": [ "narsin", "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "l01", "img_intro", "aud_intro", "vid_intro" ] }
 
 }
 
