@@ -1,15 +1,15 @@
 {
   "nav_home": {
-    "mm": "ပင်မ",
+    "mm": "မူလ",
     "en": "Home"
   },
   "nav_lessons": {
-    "mm": "သင်ခန်းစာ",
-    "en": "Lessons"
+    "mm": "အာဘော်",
+    "en": "Ar Baw"
   },
   "nav_guide": {
-    "mm": "မာတိကာ",
-    "en": "Content"
+    "mm": "စိတ်ညှို့",
+    "en": "Hypno"
   },
   "nav_gallery": {
     "mm": "ပုံများ",
