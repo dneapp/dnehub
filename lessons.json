@@ -1,0 +1,18 @@
+{
+  
+"lessons": [
+
+   {"id": "hacker", "lang": "mm", "title": "ဟက်ကာလက်စွဲ", "summary": "ဘန်ကောက်လို့ ဘာလို့ခေါ်လဲ", "type": "pdf", "file": "pdfs/enc/hacker.pdf", "encrypted": true, "locked": true, "v": 1 },
+
+   {"id": "hypno", "lang": "mm", "title": "အိပ်မွေ့ချ", "summary": "ဘန်ကောက်လို့ ဘာလို့ခေါ်လဲ", "type": "pdf", "file": "pdfs/enc/hypno.pdf", "encrypted": true, "locked": true, "v": 1 },
+
+   {"id": "pdf01", "lang": "mm", "title": "အလောင်းတရားကြီး", "summary": "ဘန်ကောက်လို့ ဘာလို့ခေါ်လဲ", "type": "pdf", "file": "pdfs/enc/pdf_01.pdf", "encrypted": true, "locked": true, "v": 1 },
+
+  {"id": "lch", "lang": "mm", "title": "တီဗွီ ချန်နယ်များ", "summary": "ပြတာပဲကြည့်ကြပါ", "file": "lesns/enc/lch_mm.md", "encrypted": true, "locked": true, "v": 1 },
+  {"id": "l01", "lang": "mm", "title": "လေ့ကျင့်စမ်းသပ်", "summary": "View editor မှာ layout ဆောက်နည်း", "file": "lesns/enc/l01_mm.md", "encrypted": true, "locked": true, "v": 1 },
+  {"id": "l01", "lang": "en", "title": "Layout basics", "summary": "How to build a layout in the View editor", "file": "lesns/l01_en.md", "v": 1 },
+  {"id": "l02", "lang": "mm", "title": "Button click event", "summary": "ခလုတ်နှိပ်ရင် ဘာဖြစ်မလဲ", "file": "lesns/l02_mm.md", "v": 1 },
+  {"id": "l02", "lang": "en", "title": "Button click event", "summary": "What happens when a button is tapped", "file": "lesns/l02_en.md", "v": 1 }
+]
+  
+}
