@@ -1,7 +1,7 @@
 {
 
 "player": [
-  { "id": "narsin", "file": "docs/usl.json", "title": "နားဆင်စရာများ", "encrypted": false, "locked": true, "v": 1 }
+  { "id": "narsin", "file": "docs/narcin.json", "title": "နားဆင်စရာများ", "encrypted": false, "locked": true, "v": 1 }
 ],
 
 "media_file": "misc/media.json",
