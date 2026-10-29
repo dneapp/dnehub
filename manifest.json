@@ -59,7 +59,7 @@
 
 "value": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw/TPdBJ/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 
-"keys": [ "narsin", "l01", "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "img_intro", "aud_intro", "vid_intro" ] },
+"keys": [ "img64", "narsin", "l01", "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "img_intro", "aud_intro", "vid_intro" ] },
 
 "enc:9UaNKUWFkaS2V8zhrPTHEKFOhgb3OHSde5fDM1y9HPd+/R1c0lQcEvFsudM+mgKt": {
 
@@ -71,7 +71,7 @@
 
 "value": "w1:ji+91BahnIlTKhfdeBdgSOh63YopQUPH4rDMugSkCz\/+V6QnWoBnKHS4Qes=",
 
-"keys": [ "narsin", "uztk", "igwzb", "apos", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "l01", "img_intro", "aud_intro", "vid_intro" ] }
+"keys": [ "narsin", "uztk", "apos", "books", "quiz", "qplay","audsync", "lch", "mhbc","igwzc", "l01", "img_intro", "aud_intro", "vid_intro" ] }
 
 }
 
