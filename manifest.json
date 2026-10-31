@@ -1,5 +1,8 @@
 {
 
+"help": [ {"id": "main", "file": "misc/help.json", "encrypted": false, "v": 1}
+],
+
 "player": [
   { "id": "narsin", "file": "docs/narcin.json", "title": "နားဆင်စရာများ", "encrypted": false, "locked": true, "v": 1 }
 ],
