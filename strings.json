@@ -263,10 +263,16 @@
     "mm": "စတင်မယ်",
     "en": "Explore"
   },
-  "free_edition": {
-    "mm": "စာဖတ်ကြပါ",
-    "en": "Let's read now"
-  },
+
+"onb_k0": { 
+"mm": "တစ်", "en": "..." },
+"onb_k1": { 
+"mm": "စာဖတ်ကြပါ", "en": "Let's read now" },
+"onb_k2": { 
+"mm": "သုံး", "en": "..." },
+"onb_k3": { 
+"mm": "လေး", "en": "..." },
+
   "fg_tag": {
     "mm": "အခမဲ့",
     "en": "Free"
