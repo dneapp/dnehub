@@ -40,12 +40,12 @@
 "guide": { "mm": "docs/hypno_mm.md", "en": "docs/hypno_en.md" },
 
 "banners": [
-  { "id": "b1", "image": "https://drive.google.com/file/d/1cZHyuh97gyE32IP66k9yC9hhBTYz2tGh/view?usp=drivesdk", "title": "ကြိုဆိုပါတယ်", "url": "https://example.com", "encrypted": true },
-  { "id": "b2", "image": "https://drive.google.com/file/d/1gAFdOi94A3uVFoIOQlz4s4nVIvYEOg1q/view?usp=drivesdk", "encrypted": true, "title": "MRTV4", "url": "enc:Kzlz/MO7vt+ieNPTlRpC3TNU/k5/N/Kq5Ysg5PrmmjxnWPZiMZJi6YbCAJFBF8i1cR1CJFFG84rDiwLNHx2jik3MYa5LF/tnlzTPbzvKQ6GB+kiAcLpTLmzbeGCsySIA" },
-{ "id": "b3", "image": "https://drive.google.com/file/d/17pe5-nL9CymlUDul8hk13dlBATaPJhS-/view?usp=drivesdk", "encrypted": true, "title": "ဘန်နာသုံး", "url": "https://example.com" },
-{ "id": "b4", "image": "https://drive.google.com/file/d/1h3VuRPmjMqjf6_wYgYGhk8MkIgD8EySe/view?usp=drivesdk", "encrypted": true, "title": "ဘန်နာလေး", "action_type": "web",
+  { "id": "b1", "image": "https://drive.usercontent.google.com/download?id=1cZHyuh97gyE32IP66k9yC9hhBTYz2tGh&export=download", "title": "ကြိုဆိုပါတယ်", "url": "https://example.com", "encrypted": true },
+  { "id": "b2", "image": "https://drive.usercontent.google.com/download?id=1gAFdOi94A3uVFoIOQlz4s4nVIvYEOg1q&export=download", "encrypted": true, "title": "MRTV4", "url": "enc:Kzlz/MO7vt+ieNPTlRpC3TNU/k5/N/Kq5Ysg5PrmmjxnWPZiMZJi6YbCAJFBF8i1cR1CJFFG84rDiwLNHx2jik3MYa5LF/tnlzTPbzvKQ6GB+kiAcLpTLmzbeGCsySIA" },
+{ "id": "b3", "image": "https://drive.usercontent.google.com/download?id=17pe5-nL9CymlUDul8hk13dlBATaPJhS-&export=download", "encrypted": true, "title": "ဘန်နာသုံး", "url": "https://example.com" },
+{ "id": "b4", "image": "https://drive.usercontent.google.com/download?id=1h3VuRPmjMqjf6_wYgYGhk8MkIgD8EySe&export=download", "encrypted": true, "title": "ဘန်နာလေး", "action_type": "web",
     "action_target": "https://example.com/news" },
-{ "id": "b5", "image": "https://drive.google.com/file/d/10kLJf0tabOxXMS7xqGgiUWSe3osBPvl8/view?usp=drivesdk", "title": "‌လေ့ကျင့်ခန်းများ", "action_type": "tab", "action_target": "lessons", "encrypted": true }
+{ "id": "b5", "image": "https://drive.usercontent.google.com/download?id=10kLJf0tabOxXMS7xqGgiUWSe3osBPvl8&export=download", "title": "‌လေ့ကျင့်ခန်းများ", "action_type": "tab", "action_target": "lessons", "encrypted": true }
 
 ],
 
