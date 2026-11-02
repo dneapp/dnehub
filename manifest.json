@@ -33,7 +33,7 @@
   "enc:moeYs5wmSbP4OnkQW0C2tDbg67n73nZq9Xt+8VsRDvaC2bmHXFO+mfs/xSN0uNlg": "စာဖတ်ခြင်းက အသိဉာဏ်ကို အားဖြစ်စေပါသည်"
 },
 
-"screenshot_block": false,
+"screenshot_block": true,
 
 "update": { "version": 1, "name": "1.2", "url": "update/update.apk", "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" },
 
