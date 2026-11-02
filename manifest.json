@@ -13,6 +13,8 @@
 
 "books": [
 
+   {"id": "hypno", "title": "အိပ်မွေ့ချ", "summary": "စိတ်ညှို့ပညာ အပြည့်အစုံ", "type": "pdf", "file": "pdfs/enc/hypno.pdf", "encrypted": true, "locked": true, "v": 1 },
+
   { "id": "ydy", "file": "docs/enc/igwzydy", "title": "ယတြာများနှင့်..", "encrypted": true, "locked": true, "v": 1 },
     { "id": "favydy", "file": "docs/enc/ydym", "title": "အစွမ်းထက် နည်းလမ်းများ", "encrypted": true, "locked": true, "v": 1 },
       { "id": "tort", "file": "docs/enc/trot", "title": "တားရော့ အကြောင်း", "encrypted": true, "locked": true, "v": 1 },
