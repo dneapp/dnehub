@@ -13,6 +13,10 @@
 
 "books": [
 
+  { "id": "ydy", "file": "docs/enc/igwzydy", "title": "ယတြာများနှင့်..", "encrypted": true, "locked": true, "v": 1 },
+    { "id": "favydy", "file": "docs/enc/ydym", "title": "အစွမ်းထက် နည်းလမ်းများ", "encrypted": true, "locked": true, "v": 1 },
+      { "id": "tort", "file": "docs/enc/trot", "title": "တားရော့ အကြောင်း", "encrypted": true, "locked": true, "v": 1 },
+        { "id": "ayd", "file": "docs/enc/ayd", "title": "အယူ‌တော် မင်္ဂလာ", "encrypted": true, "locked": true, "v": 1 },
   { "id": "uztk", "file": "docs/enc/uztk", "title": "ဆရာတော် ဦးဇောတိက", "encrypted": true, "locked": true, "v": 1 },
   { "id": "igwzb", "file": "docs/enc/igwz", "title": "အင်္ဂဝိဇ္ဇာပညာ", "encrypted": true, "locked": true, "v": 1 },
   { "id": "12months", "file": "docs/enc/12la", "title": "ဆယ်နှစ်လ", "encrypted": true, "locked": false, "v": 1 }
