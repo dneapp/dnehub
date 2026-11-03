@@ -34,7 +34,8 @@
 "quiz": { "file": "others/quiz", "encrypted": true, "locked": true, "v": 1, "time": 35, "maxError": 3 },
 
 "watermark": {
-  "enc:moeYs5wmSbP4OnkQW0C2tDbg67n73nZq9Xt+8VsRDvaC2bmHXFO+mfs/xSN0uNlg": "စာဖတ်ခြင်းက အသိဉာဏ်ကို အားဖြစ်စေပါသည်"
+  "enc:moeYs5wmSbP4OnkQW0C2tDbg67n73nZq9Xt+8VsRDvaC2bmHXFO+mfs/xSN0uNlg": "စာဖတ်ခြင်းက အသိဉာဏ်ကို အားဖြစ်စေပါသည်",
+"enc:UF/XDNMDQVt4WHMa9Dw92QrT9gR6eg1z+x+F2DfhoTgjydt8JO6hFRJzb4TAALom": "ဘေလ်ပေးဆောင်ရန် ကျန်နေပါသည်"
 },
 
 "screenshot_block": false,
