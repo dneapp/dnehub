@@ -19,7 +19,7 @@
         { "id": "ayd", "file": "docs/enc/ayd", "title": "အယူ‌တော် မင်္ဂလာ", "encrypted": true, "locked": true, "v": 1 },
   { "id": "uztk", "file": "docs/enc/uztk", "title": "ဆရာတော် ဦးဇောတိက", "encrypted": true, "locked": true, "v": 1 },
   { "id": "igwzb", "file": "docs/enc/igwz", "title": "အင်္ဂဝိဇ္ဇာပညာ", "encrypted": true, "locked": true, "v": 1 },
-  { "id": "12months", "file": "docs/enc/12la", "title": "ဆယ်နှစ်လ", "encrypted": true, "locked": false, "v": 1 }
+  { "id": "12months", "file": "docs/enc/12la", "title": "ဆယ့်နှစ်လရာသီ", "encrypted": true, "locked": false, "v": 1 }
 
 ],
 
@@ -66,19 +66,19 @@
 
 "value": "w1:K1gBKIQD+ASeZi2ZvNvlIIsGwzw/TPdBJ/CnXdxdkJnhMs2N8hNkrs8eSNQ=",
 
-"keys": [ "ydy", "favydy", "tort", "ayd", "ggdrive", "igwzfull", "img64", "narsin", "l01", "uztk", "igwzb", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "img_intro", "aud_intro", "vid_intro" ] },
+"keys": [ "ydy", "favydy", "tort", "ayd", "ggdrive", "igwzfull", "img64", "narsin", "l01", "uztk", "igwzb", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "img_intro", "aud_intro", "vid_intro", "အတီး" ] },
 
 "enc:9UaNKUWFkaS2V8zhrPTHEKFOhgb3OHSde5fDM1y9HPd+/R1c0lQcEvFsudM+mgKt": {
 
 "value": "w1:IqcxZjGzlZmVfsS8BmosxaB1LjjgMm\/dyMM8ub\/5n\/yCrmqtE9vBH6nWMTA=",
 
-"keys": [ "ydy", "favydy", "tort", "ayd", "ggdrive", "igwzfull", "img64", "narsin", "l01", "uztk", "igwzb", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "img_intro", "aud_intro", "vid_intro" ] },
+"keys": [ "ydy", "favydy", "tort", "ayd", "ggdrive", "igwzfull", "img64", "narsin", "l01", "uztk", "igwzb", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "img_intro", "aud_intro", "vid_intro", "kst" ] },
 
 "enc:UF/XDNMDQVt4WHMa9Dw92QrT9gR6eg1z+x+F2DfhoTgjydt8JO6hFRJzb4TAALom": {
 
 "value": "w1:ji+91BahnIlTKhfdeBdgSOh63YopQUPH4rDMugSkCz\/+V6QnWoBnKHS4Qes=",
 
-"keys": [ "ydy", "favydy", "tort", "ayd", "ggdrive", "igwzfull", "img64", "narsin", "l01", "uztk", "igwzb", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "img_intro", "aud_intro", "vid_intro" ] }
+"keys": [ "ydy", "favydy", "tort", "ayd", "ggdrive", "igwzfull", "img64", "narsin", "l01", "uztk", "igwzb", "books", "quiz", "hypno", "hacker", "pdf01", "qplay","audsync", "accgen", "lch", "ss_lock", "mhbc","igwzc", "img_intro", "aud_intro", "vid_intro", "weep" ] }
 
 }
 
