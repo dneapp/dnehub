@@ -6,9 +6,9 @@
   {"id": "aud_intro", "type": "audio", "title": "အသံ စမ်းသပ်", "url": "auds/enc/aud01.mp3", "thumb" :"thumbs/thumbaud.webp", "encrypted": true, "locked": true, "size": 500000, "v": 2 },
   {"id": "vid_intro", "type": "video", "title": "ဗီဒီယို စမ်းသပ်", "url": "vids/enc/sample.mp4", "thumb":"thumbs/thumbvid.webp", "encrypted": true, "locked": true, "size": 5000000, "v": 1 },
 
-  {"id": "ss_01", "type": "image", "title": "01", "url": "https://www.dropbox.com/scl/fi/al9gscfm9amcbvw10dlrr/ss01.jpg?rlkey=8sa2l903ildcb6hu1bcd7ed24&st=uepjwv2f&dl=1", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_02", "type": "image", "title": "02", "url": "enc:ox25IVoRJYwfocuFKVTfBgVd89OGZt2cbvUmMLcCpx9cxzkOb0LWuqsf6PvKfskc10O45F9ipBlptqG9YkmHCfGkj0zbA+MQg1mPxJ2ux9ja9atGyR4ycAX3Ms1nf9OVIG6FDwejl+W5+QdVjJAUrZTB4PcWsS3zka8mgIYT1/g=", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_03", "type": "image", "title": "03", "url": "https://drive.google.com/file/d/1wljM2REBtMog3st6JIvmKXEsRcKZ9ixm/view?usp=drivesdk", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
+  {"id": "ss_01", "type": "image", "title": "01", "url": "pics/gallery/ss01.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
+  {"id": "ss_02", "type": "image", "title": "02", "url": "pics/gallery/ss02.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
+  {"id": "ss_03", "type": "image", "title": "03", "url": "pics/gallery/ss03.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_04", "type": "image", "title": "04", "url": "https://drive.google.com/file/d/1DnXu6xiJKy1TNwndGOqp82xKWcBgr_bW/view?usp=drivesdk", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_05", "type": "image", "title": "05", "url": "https://drive.google.com/file/d/1XSdlF8a8vicIcVpV4fZZzQZrU1p6IPjR/view?usp=drivesdk", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_06", "type": "image", "title": "06", "url": "https://drive.google.com/file/d/1y_bfEr9TDfKp2izzIRlWUnK8rcdeEz0m/view?usp=drivesdk", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
@@ -24,7 +24,7 @@
   {"id": "ss_16", "type": "image", "title": "16", "url": "pics/ss16.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_17", "type": "image", "title": "17", "url": "pics/ss17.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_18", "type": "image", "title": "18", "url": "pics/ss18.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_19", "type": "image", "title": "19", "url": "pics/ss19.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
+  {"id": "ss_19", "type": "image", "title": "19", "url": "pics/gallery/ss19.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_lock", "type": "image", "title": "စမ်းသပ်", "url": "pics/enc/enci1.jpg", "thumb": "thumbs/thumbi.png", "encrypted": true, "locked": true, "size": 0, "v": 1 }
 
 ]
