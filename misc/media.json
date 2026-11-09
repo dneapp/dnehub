@@ -6,7 +6,7 @@
   {"id": "aud_intro", "type": "audio", "title": "အသံ စမ်းသပ်", "url": "auds/enc/aud01.mp3", "thumb" :"thumbs/thumbaud.webp", "encrypted": true, "locked": true, "size": 500000, "v": 2 },
   {"id": "vid_intro", "type": "video", "title": "ဗီဒီယို စမ်းသပ်", "url": "vids/enc/sample.mp4", "thumb":"thumbs/thumbvid.webp", "encrypted": true, "locked": true, "size": 5000000, "v": 1 },
 
-  {"id": "ss_01", "type": "image", "title": "01", "url": "pics/gallery/ss01.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
+  {"id": "ss_01", "type": "image", "title": "01", "url": "https://drive.usercontent.google.com/download?id=1FuljPpMVhGTyOl3Y7IBV7_urFVzNtaP3&export=download", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_02", "type": "image", "title": "02", "url": "pics/gallery/ss02.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_03", "type": "image", "title": "03", "url": "pics/gallery/ss03.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_04", "type": "image", "title": "04", "url": "pics/gallery/ss04.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
