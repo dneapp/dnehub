@@ -7,7 +7,7 @@
   {"id": "vid_intro", "type": "video", "title": "ဗီဒီယို စမ်းသပ်", "url": "vids/enc/sample.mp4", "thumb":"thumbs/thumbvid.webp", "encrypted": true, "locked": true, "size": 5000000, "v": 1 },
 
   {"id": "ss_01", "type": "image", "title": "01", "url": "https://drive.usercontent.google.com/download?id=1FuljPpMVhGTyOl3Y7IBV7_urFVzNtaP3&export=download", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
-  {"id": "ss_02", "type": "image", "title": "02", "url": "pics/gallery/ss02.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
+  {"id": "ss_02", "type": "image", "title": "02", "url": "enc:d+YL2eyMtPi6CUM02VqkmzSOPADtVCQetN+wyfgcepIoO4K+VjTgEixcHvL+xHENcbX/Y9j2hXRmq23w/d761rZdVF+HTDwu7PW0EnbnDCFLGd9JmtFkX9nws9rbx3ZsvkggU02q/EaPnqcbCiIyi6Q7JUAFRlIrZfMcBpxODMQ=", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_03", "type": "image", "title": "03", "url": "pics/gallery/ss03.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_04", "type": "image", "title": "04", "url": "pics/gallery/ss04.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
   {"id": "ss_05", "type": "image", "title": "05", "url": "pics/gallery/ss05.jpg", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
