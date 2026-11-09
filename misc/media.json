@@ -27,7 +27,8 @@
   {"id": "ss_19", "type": "image", "title": "19", "url": "enc:H7U5oIyFaP6Ec9zNo1umHTDbsXWOO7ux9EFHYUY8Bj3vcwg/7YQ1M+OaL9U4V4TTLGa1r+0KukHLv6x0taOcanCyy5vUQJhQmzj3E2d+6zvDL352MxgQYfQn5D8kkvdpTErM+ZFhk7fQjaiQw/zkU57v2zsJUzSqz/AS53xQSaY=", "thumb": "thumbs/thumbi.png", "size": 0, "v": 1 },
    {"id": "ss_20", "type": "image", "title": "အိပ်ရေးမဝဘူး", "url": "enc:H7U5oIyFaP6Ec9zNo1umHTDbsXWOO7ux9EFHYUY8Bj3vcwg/7YQ1M+OaL9U4V4TTLGa1r+0KukHLv6x0taOcanCyy5vUQJhQmzj3E2d+6zvDL352MxgQYfQn5D8kkvdpTErM+ZFhk7fQjaiQw/zkU57v2zsJUzSqz/AS53xQSaY=", "thumb": "thumbs/thumbi.png", "encrypted": true, "size": 0, "v": 1 },
 
-  {"id": "ss_lock", "type": "image", "title": "မူရင်းကောင်း", "url": "enc:cEuSR4qU5ifwMsQiME7fU6IS7KdAtkomrR/SFbcLfVa3c8mQwxWqSMYB7sM2mXqy9WIf6xOlkWOXBRsIIiVGp20YWC0iXqYIkiJGl0hLytfd8JVK8J4i/SZx5TsaTk9lx6ikzHB2UwidsRJwBPoj86HZr9VOWxOCBdv147TDgRo=", "thumb": "thumbs/thumbi.png", "encrypted": true, "locked": true, "size": 0, "v": 1 }
+  {"id": "lock_01", "type": "image", "title": "မူရင်းနှစ်", "url": "enc:cEuSR4qU5ifwMsQiME7fU6IS7KdAtkomrR/SFbcLfVa3c8mQwxWqSMYB7sM2mXqy9WIf6xOlkWOXBRsIIiVGp20YWC0iXqYIkiJGl0hLytfd8JVK8J4i/SZx5TsaTk9lx6ikzHB2UwidsRJwBPoj86HZr9VOWxOCBdv147TDgRo=", "thumb": "thumbs/thumbi.png", "encrypted": true, "locked": true, "size": 0, "v": 1 },
+{"id": "lock_02", "type": "image", "title": "မူရင်းတစ်", "url": "enc:bvkpg1+sVZm4tpmVQ2Q1PU00nQonmSTBanBOGW/f5YHue8wxp4KlNTkclvfWLWUrtea7ayWfcn3reQigY/s3SXotVIDrOGvC0mA5JKBKWrK/joKMtt9GGNu4HpgWoxWEYUATK1z2uWCnLZcgPyD/lHdcEtnDp225FbYXDhJSUTo=", "thumb": "thumbs/thumbi.png", "encrypted": true, "locked": true, "size": 0, "v": 1 }
 
 ]
 
