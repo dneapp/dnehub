@@ -16,7 +16,7 @@
   "version": 1,
   "screens": {
 
-"onboard": { "bg": "enc:GZfbl6CABCdw1rCJUE5ge1slNtCfuEu0M8BDEXpl2mdaXL7xIFw8aHzi7KR89wzGEklRl+EhZaj57+bt5lNCHHxEcDen63C4FeLOkCyEKjk=", "type": "video" },
+"onboard": { "bg": "enc:ERIoMgql8a6AKejzFbQJ788RSPlCi65A/a6hPm76m0FZHJ3LUf6XDdtqVLyJL3hDIFfTjbJP9opwBkiz4Q78jaj2tynUvC5ywYHLjffePnQQQZt6p8AnDHJ2IqrKTTt1wpl0BqAVMiSRn309AhfIiY2GiZHxYmVsL5OuCXbdW69qiqfehXvwDUjkkkEcyRS8", "type": "video" },
 
 "home": { "bg": "enc:KSEip8Z1X0ZVr/sZIAtWStTzCnejvvk88/MvqpnYm5Jb6Kk1ukGZiwYLGj0Apqf/SKCb/YNbxXUx/tSXW2mbJA==", "type": "video" }
 
