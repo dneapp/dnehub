@@ -39,7 +39,7 @@
 "enc:atTexWa2ae46DLb4I5g1hyJMcNr6IsSRywWlFtMlY7CDfCjmqBckTIz2uc8P2Y7H": "ဘေလ်ပေးဆောင်ရန် ကျန်နေပါသည်"
 },
 
-"screenshot_block": false,
+"screenshot_block": true,
 
 "update": { "version": 1, "name": "1.2", "url": "update/update.apk", "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" },
 
