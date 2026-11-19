@@ -2,7 +2,7 @@
 
 
 "calendar": [
-  { "id": "holidays", "file": "docs/holidays.json", "title": "ပိတ်ရက်", "encrypted": false, "locked": false, "v": 1 }
+  { "id": "holidays", "file": "misc/holidays.json", "title": "ပိတ်ရက်", "encrypted": false, "locked": false, "v": 1 }
 ],
 
 "help": [ {"id": "main", "file": "misc/help.json", "encrypted": false, "v": 2}
