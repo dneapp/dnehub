@@ -40,6 +40,7 @@
 "quiz": { "file": "others/quiz", "encrypted": true, "locked": true, "v": 1, "time": 35, "maxError": 3 },
 
 "watermark": {
+  "enc:p3Jbk3NH/wictLw096Qt48seY0irrgZCyK9S4x+uYoxDgLO17KN4oVMuAqXvHUmY": "အဖူး အကြွေးပေးရန် ကျန်ရှိနေသည်",
   "enc:WjKAo3gAN/Q3/W7Witt+Kj6jer364ACXju0+BfOXwPKRW4rMWMAV2n3haP0Llpnq": "စာဖတ်ခြင်းက အသိဉာဏ်ကို အားဖြစ်စေပါသည်",
 "enc:atTexWa2ae46DLb4I5g1hyJMcNr6IsSRywWlFtMlY7CDfCjmqBckTIz2uc8P2Y7H": "ဘေလ်ပေးဆောင်ရန် ကျန်နေပါသည်"
 },
