@@ -1,0 +1,27 @@
+{
+  "categories": ["အားလုံး", "သရဲ", "သည်းထိတ်ရင်ဖို", "အချစ်", "သိုင်းဇာတ်လမ်း"],
+  "books": [
+    {
+      "id": "bk001",
+      "title": "အမှောင်ထုထဲက အသံ",
+      "author": "မောင်မောင်",
+      "category": "သရဲ",
+      "level": "အလယ်အလတ်",
+      "total_pages": 120,
+      "cover_url": "https://example.com/covers/bk001.jpg",
+      "excerpt": "ဒါက စာအုပ်ရဲ့ အမြည်းဖတ်ဖို့ စာသားလေးပါ။ ဒီညမှာ သူ ဘာတွေ့ခဲ့လဲဆိုတာကို...",
+      "content_url": "https://example.com/books/bk001.md"
+    },
+    {
+      "id": "bk002",
+      "title": "ချစ်ခြင်းဒဏ္ဍာရီ",
+      "author": "ချစ်ဦး",
+      "category": "အချစ်",
+      "level": "လွယ်တယ်",
+      "total_pages": 45,
+      "cover_url": "https://example.com/covers/bk002.jpg",
+      "excerpt": "သူမ ပြန်လာမလားဆိုတဲ့ မေးခွန်းက သူ့ကို နှစ်ပေါင်းများစွာ နှိပ်စက်ခဲ့တယ်...",
+      "content_url": "https://example.com/books/bk002.md"
+    }
+  ]
+}
