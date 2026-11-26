@@ -1,0 +1,18 @@
+{
+  "scenes": [
+    {
+      "id": "scene_1",
+      "video_url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "subtitle": "တောအုပ်ထဲမှာ ထူးဆန်းတဲ့ အသံတွေ ထွက်ပေါ်လာတယ်။",
+      "summary": "တောအုပ်ထဲမှာ ထူးဆန်းတဲ့ အသံတွေ ကြားလိုက်ရတယ်။ မင်း ဘာလုပ်မလဲ?",
+      "next_scene": "scene_2"
+    },
+    {
+      "id": "scene_2",
+      "video_url": "https://www.w3schools.com/html/movie.mp4",
+      "subtitle": "ဒုတိယ အခန်း - ငါ ဆက်လျှောက်ဖို့ ဆုံးဖြတ်လိုက်တယ်။",
+      "summary": "မင်း ရဲ့ ရွေးချယ်မှုက မှန်ကန်ခဲ့ပါတယ်။ ရှေ့ဆက်သွားမယ်။",
+      "next_scene": ""
+    }
+  ]
+}
