@@ -47,7 +47,7 @@
 
 "screenshot_block": false,
 
-"update": { "version": 1, "name": "1.2", "url": "update/update.apk", "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" },
+"update": { "version": 2, "name": "2.4", "url": "update/update.apk", "notes": "စာပြင်ထားတယ်", "notes_en": "Text fixes" },
 
 "guide": { "mm": "docs/hypno_mm.md", "en": "docs/hypno_en.md" },
 
