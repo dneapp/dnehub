@@ -1,30 +1,7 @@
 {
-  "scenes": [
-    {
-      "id": "scene_1",
-      "video_url": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "subtitle": "တောအုပ်ထဲမှာ ထူးဆန်းတဲ့ အသံတွေ ထွက်ပေါ်လာတယ်။",
-      "summary": "မင်း ဘယ်လမ်းကို သွားမလဲ?",
-      "choices": [
-        { "text": "🌲 တောအုပ်ထဲ ဝင်မယ်", "next_scene": "scene_forest" },
-        { "text": "🏠 ရွာကို ပြန်မယ်", "next_scene": "scene_village" }
-      ]
-    },
-    {
-      "id": "scene_forest",
-      "video_url": "https://www.w3schools.com/html/movie.mp4",
-      "subtitle": "မင်း တောအုပ်ထဲကို ရောက်သွားတယ်။",
-      "summary": "တောအုပ်ထဲမှာ လျှို့ဝှက်ချက်တွေ ရှိနေတယ်...",
-      "choices": [
-        { "text": "ဆက်လျှောက်မယ်", "next_scene": "" }
-      ]
-    },
-    {
-      "id": "scene_village",
-      "video_url": "https://www.w3schools.com/html/movie.mp4",
-      "subtitle": "ရွာထဲကို ပြန်ရောက်လာတယ်။",
-      "summary": "ရွာမှာ အေးအေးဆေးဆေး နေလိုက်တယ်။",
-      "choices": []
-    }
-  ]
+  "id": "scene_1",
+  "video": "story_v1",
+  "subtitle": "...",
+  "summary": "...",
+  "choices": [ ... ]
 }
