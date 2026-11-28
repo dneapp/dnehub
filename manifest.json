@@ -1,5 +1,6 @@
 {
 
+"story": { "file": "misc/story.json", "v": 1, "encrypted": false },
 
 "calendar": [
   { "id": "holidays", "file": "misc/holidays.json", "title": "ပိတ်ရက်", "encrypted": false, "locked": false, "v": 2 }
@@ -11,8 +12,6 @@
 "player": [
   { "id": "narsin", "file": "docs/narcin.json", "title": "အသံဖိုင်များ", "encrypted": false, "locked": true, "v": 1 }
 ],
-
-"story": { "file": "misc/story.json", "v": 2, "encrypted": false },
 
 "media_file": "misc/media.json",
 
