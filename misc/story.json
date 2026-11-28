@@ -33,7 +33,7 @@
     {
       "id": "c01_s02",
       "character": "narrator",
-      "video_file": "https://host-b.example.com/c01/s02.mp4",
+      "video_file": "https://www.dropbox.com/scl/fi/qn4spufg7i3fp8n6sq9ex/resumeTest.mp4?rlkey=hwyt96i71cqfhp6b3a3arwqa4&st=4dklp90l&dl=1",
       "video_enc": true,
       "video_v": 2,
       "subtitle": "လမ်းနှစ်ခွ ရောက်လာတယ်။",
@@ -56,7 +56,7 @@
     {
       "id": "c01_s03",
       "character": "villager",
-      "video_file": "https://host-a.example.com/c01/s03.mp4",
+      "video_file": "https://www.dropbox.com/scl/fi/qn4spufg7i3fp8n6sq9ex/resumeTest.mp4?rlkey=hwyt96i71cqfhp6b3a3arwqa4&st=4dklp90l&dl=1",
       "subtitle": "ရွာသူကြီးက စကားပြောတယ်။",
       "next_scene": "quiz_1"
     },
@@ -85,7 +85,7 @@
     {
       "id": "c02_s01",
       "character": "narrator",
-      "video_file": "https://host-a.example.com/c02/s01.mp4",
+      "video_file": "https://www.dropbox.com/scl/fi/qn4spufg7i3fp8n6sq9ex/resumeTest.mp4?rlkey=hwyt96i71cqfhp6b3a3arwqa4&st=4dklp90l&dl=1",
       "subtitle": "ဇာတ်လမ်း ဆက်ပါမယ်။"
     }
   ]
