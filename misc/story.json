@@ -2,7 +2,7 @@
   "video_base": "vids/story/",
   "video_enc": false,
   "puzzles": [
-    { "id": "p1", "title": "တောအုပ်ပုံ", "image": "story/puzzle/p1.jpg", "grid": 3 }
+    { "id": "p1", "title": "တောအုပ်ပုံ", "image": "pics/story/p1.jpg", "grid": 3 }
   ],
   "scenes": [
     { "id": "c01_s01", "video_file": "c01/s01.mp4",
