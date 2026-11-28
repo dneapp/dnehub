@@ -18,10 +18,19 @@
       "character": "narrator",
       "video_url": "https://www.w3schools.com/html/movie.mp4",
       "subtitle": "တောအုပ်ထဲမှာ ထူးဆန်းတဲ့ အသံတွေ ထွက်ပေါ်လာတယ်။",
-      "summary": "မင်း ဘယ်လမ်းကို သွားမလဲ?",
+      "summary": "မင်း ဘာလုပ်မလဲ?",
       "choices": [
-        { "text": "🌲 တောအုပ်ထဲ ဝင်မယ်", "next_scene": "scene_forest" },
+        { "text": "🗺️ မြေပုံကြည့်မယ်", "next_scene": "map_1" },
         { "text": "🏠 ရွာကို ပြန်မယ်", "next_scene": "scene_village" }
+      ]
+    },
+    {
+      "id": "map_1",
+      "type": "map",
+      "subtitle": "သွားချင်တဲ့ နေရာကို ရွေးပါ",
+      "nodes": [
+        { "label": "🌲 တောအုပ်", "x": 30, "y": 50, "next_scene": "scene_forest" },
+        { "label": "🏠 ရွာ", "x": 70, "y": 40, "next_scene": "scene_village" }
       ]
     },
     {
