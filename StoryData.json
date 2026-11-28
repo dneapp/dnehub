@@ -1,9 +1,0 @@
-{
-  "current_chapter": 2,
-  "current_scene": "quiz_forest_1",
-  "unlocked_maps": ["forest", "cave", "village"],
-  "unlocked_chapters": [1, 2],
-  "history": ["intro_1", "intro_2", "choice_1", "quiz_forest_1"],
-  "collected_jigsaws": ["jig_01", "jig_02"],
-  "quiz_answers": {"quiz_forest_1": 2}
-}
