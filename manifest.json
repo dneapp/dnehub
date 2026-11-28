@@ -1,6 +1,6 @@
 {
 
-"story": { "file": "misc/story.json", "v": 2, "encrypted": false },
+"story": { "file": "misc/story.json", "v": 1, "encrypted": false },
 
 "calendar": [
   { "id": "holidays", "file": "misc/holidays.json", "title": "ပိတ်ရက်", "encrypted": false, "locked": false, "v": 2 }
