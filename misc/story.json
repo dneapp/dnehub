@@ -1,74 +1,11 @@
 {
-
-"video_base": "story/",
-"video_enc": false,
-
-  "characters": [
-    { "id": "narrator", "name": "ဇာတ်ကြောင်းပြောသူ", "color": "#00BFFF" },
-    { "id": "villager", "name": "ရွာသူကြီး", "color": "#FFD700" }
-  ],
-  "chapters": [
-    { "id": "ch1", "title": "အခန်း ၁ - စူးစမ်းရှာဖွေမှု", "start": "ch1_start" }
-  ],
+  "video_base": "story/",
+  "video_enc": false,
   "scenes": [
-
-   { "id": "c01_s01", "video_file": "c01/s01.mp4", "subtitle": "...", "next_scene": "c01_s02" },
-
-    {
-      "id": "ch1_start",
-      "type": "chapter_title",
-      "subtitle": "အခန်း ၁ - စူးစမ်းရှာဖွေမှု",
-      "next_scene": "scene_1"
-    },
-    {
-      "id": "scene_1",
-      "character": "narrator",
-      "video_url": "https://www.w3schools.com/html/movie.mp4",
-      "subtitle": "တောအုပ်ထဲမှာ ထူးဆန်းတဲ့ အသံတွေ ထွက်ပေါ်လာတယ်။",
-      "summary": "မင်း ဘာလုပ်မလဲ?",
-      "choices": [
-        { "text": "🗺️ မြေပုံကြည့်မယ်", "next_scene": "map_1" },
-        { "text": "🏠 ရွာကို ပြန်မယ်", "next_scene": "scene_village" }
-      ]
-    },
-    {
-      "id": "map_1",
-      "type": "map",
-      "subtitle": "သွားချင်တဲ့ နေရာကို ရွေးပါ",
-      "nodes": [
-        { "label": "🌲 တောအုပ်", "x": 30, "y": 50, "next_scene": "scene_forest" },
-        { "label": "🏠 ရွာ", "x": 70, "y": 40, "next_scene": "scene_village" }
-      ]
-    },
-    {
-      "id": "scene_forest",
-      "character": "narrator",
-      "video_url": "https://www.w3schools.com/html/movie.mp4",
-      "subtitle": "မင်း တောအုပ်ထဲကို ရောက်သွားတယ်။",
-      "next_scene": "quiz_forest_1"
-    },
-    {
-      "id": "quiz_forest_1",
-      "type": "quiz",
-      "question": "တောအုပ်ထဲမှာ တွေ့တဲ့ သတ္တဝါရဲ့ ပျမ်းမျှ အသက်က ဘယ်လောက်လဲ?",
-      "options": ["က. ၁၀ နှစ်", "ခ. ၁၂ နှစ်", "ဂ. ၁၄ နှစ်", "ဃ. ၁၆ နှစ်"],
-      "answer": 3,
-      "reward_jigsaw": "တောအုပ်ပုံ အပိုင်းအစ",
-      "hint": "ဒီသတ္တဝါက အိမ်မွေးတိရစ္ဆာန်တွေထက် အသက်ပိုရှည်တယ်။",
-      "next_scene": "scene_village"
-    },
-    {
-      "id": "scene_village",
-      "character": "villager",
-      "video_url": "https://www.w3schools.com/html/movie.mp4",
-      "subtitle": "ရွာကို ကြိုဆိုပါတယ်။ မင်း ဒီမှာ အနားယူလို့ရပါတယ်။",
-      "hint": "ရွာထဲမှာ နောက်ထပ် ရှာဖွေစရာတွေ ရှိသေးတယ်နော်။",
-      "next_scene": "ch1_end"
-    },
-    {
-      "id": "ch1_end",
-      "type": "chapter_end",
-      "subtitle": "အခန်း ၁ ပြီးဆုံးပါပြီ။"
-    }
+    { "id": "c01_s01", "video_file": "c01/s01.mp4",
+      "subtitle": "...", "next_scene": "c01_s02" },
+    { "id": "c01_s02", "video_file": "c01/s02.mp4",
+      "subtitle": "...", "summary": "...",
+      "choices": [ { "text": "...", "next_scene": "c01_s03" } ] }
   ]
 }
