@@ -13,7 +13,7 @@
   ],
 
   "puzzles": [
-    { "id": "p1", "title": "တောအုပ်ပုံ", "image": "story/pics/i1.jpg", "grid": 3, "enc": false, "v": 1 }
+    { "id": "p1", "title": "တောအုပ်ပုံ", "image": "story/imgs/i1.jpg", "grid": 3, "enc": false, "v": 1 }
   ],
 
   "scenes": [
