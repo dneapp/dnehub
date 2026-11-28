@@ -12,7 +12,7 @@
   { "id": "narsin", "file": "docs/narcin.json", "title": "အသံဖိုင်များ", "encrypted": false, "locked": true, "v": 1 }
 ],
 
-"story": { "file": "misc/story.json", "v": 1, "encrypted": false },
+"story": { "file": "misc/story.json", "v": 2, "encrypted": false },
 
 "media_file": "misc/media.json",
 
