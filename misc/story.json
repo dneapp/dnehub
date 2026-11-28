@@ -13,7 +13,7 @@
   ],
 
   "puzzles": [
-    { "id": "p1", "title": "တောအုပ်ပုံ", "image": "https://example.com/pics/p1.jpg", "grid": 3, "enc": false, "v": 1 }
+    { "id": "p1", "title": "တောအုပ်ပုံ", "image": "story/pics/i1.jpg", "grid": 3, "enc": false, "v": 1 }
   ],
 
   "scenes": [
@@ -26,7 +26,7 @@
     {
       "id": "c01_s01",
       "character": "narrator",
-      "video_file": "https://host-a.example.com/c01/s01.mp4",
+      "video_file": "https://www.dropbox.com/scl/fi/qn4spufg7i3fp8n6sq9ex/resumeTest.mp4?rlkey=hwyt96i71cqfhp6b3a3arwqa4&st=4dklp90l&dl=1",
       "subtitle": "ဇာတ်လမ်း စတင်ပါပြီ။",
       "next_scene": "c01_s02"
     },
