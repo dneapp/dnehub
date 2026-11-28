@@ -1,16 +1,16 @@
 {
   "video_base": "story/",
   "video_enc": false,
-"puzzles": [
-  { "id": "p1", "title": "တောအုပ်ပုံ", "image": "story/puzzle/p1.jpg", "grid": 3 }
-],
+  "puzzles": [
+    { "id": "p1", "title": "တောအုပ်ပုံ", "image": "story/puzzle/p1.jpg", "grid": 3 }
+  ],
   "scenes": [
     { "id": "c01_s01", "video_file": "c01/s01.mp4",
-      "subtitle": "...", "next_scene": "c01_s02" },
+      "subtitle": "...", "next_scene": "quiz_1" },
     { "id": "quiz_1", "type": "quiz", "question": "...", "options": ["..."], "answer": 0,
-  "reward_jigsaw": "p1:1", "next_scene": "..." },
+      "reward_jigsaw": "p1:1", "next_scene": "c01_s02" },
     { "id": "c01_s02", "video_file": "c01/s02.mp4",
       "subtitle": "...", "summary": "...",
-      "choices": [ { "text": "...", "next_scene": "c01_s03" } ] }
+      "choices": [ { "text": "...", "next_scene": "" } ] }
   ]
 }
