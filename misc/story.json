@@ -2,7 +2,7 @@
   "scenes": [
     {
       "id": "scene_1",
-      "video_url": "https://drive.usercontent.google.com/download?id=16BsnK1ktGDkkXwiHqy99UyqVRkoxcYIR&export=download",
+      "video": "story_v1",
       "subtitle": "တောအုပ်ထဲမှာ ထူးဆန်းတဲ့ အသံတွေ ထွက်ပေါ်လာတယ်။",
       "summary": "မင်း ဘယ်လမ်းကို သွားမလဲ?",
       "choices": [
