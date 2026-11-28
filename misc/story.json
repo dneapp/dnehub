@@ -1,5 +1,5 @@
 {
-  "video_base": "story/",
+  "video_base": "vids/story/",
   "video_enc": false,
   "puzzles": [
     { "id": "p1", "title": "တောအုပ်ပုံ", "image": "story/puzzle/p1.jpg", "grid": 3 }
