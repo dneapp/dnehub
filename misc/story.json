@@ -1,16 +1,92 @@
 {
-  "video_base": "story/vids/",
   "video_enc": false,
-  "puzzles": [
-    { "id": "p1", "title": "တောအုပ်ပုံ", "image": "story/pics/i1.jpg", "grid": 3 }
+  "video_v": 1,
+
+  "characters": [
+    { "id": "narrator", "name": "ဇာတ်ကြောင်းပြောသူ", "color": "#00BFFF" },
+    { "id": "villager", "name": "ရွာသူကြီး", "color": "#FFD700" }
   ],
+
+  "chapters": [
+    { "id": "ch1", "title": "အခန်း ၁", "start": "ch1_start" },
+    { "id": "ch2", "title": "အခန်း ၂", "start": "ch2_start" }
+  ],
+
+  "puzzles": [
+    { "id": "p1", "title": "တောအုပ်ပုံ", "image": "https://example.com/pics/p1.jpg", "grid": 3, "enc": false, "v": 1 }
+  ],
+
   "scenes": [
-    { "id": "c01_s01", "video_file": "c01/s01.mp4",
-      "subtitle": "...", "next_scene": "quiz_1" },
-    { "id": "quiz_1", "type": "quiz", "question": "...", "options": ["..."], "answer": 0,
-      "reward_jigsaw": "p1:1", "next_scene": "c01_s02" },
-    { "id": "c01_s02", "video_file": "c01/s02.mp4",
-      "subtitle": "...", "summary": "...",
-      "choices": [ { "text": "...", "next_scene": "" } ] }
+    {
+      "id": "ch1_start",
+      "type": "chapter_title",
+      "subtitle": "အခန်း ၁",
+      "next_scene": "c01_s01"
+    },
+    {
+      "id": "c01_s01",
+      "character": "narrator",
+      "video_file": "https://host-a.example.com/c01/s01.mp4",
+      "subtitle": "ဇာတ်လမ်း စတင်ပါပြီ။",
+      "next_scene": "c01_s02"
+    },
+    {
+      "id": "c01_s02",
+      "character": "narrator",
+      "video_file": "https://host-b.example.com/c01/s02.mp4",
+      "video_enc": true,
+      "video_v": 2,
+      "subtitle": "လမ်းနှစ်ခွ ရောက်လာတယ်။",
+      "summary": "မင်း ဘယ်လမ်းကို သွားမလဲ?",
+      "hint": "မြေပုံကို ကြည့်ရင် ရှင်းသွားမယ်။",
+      "choices": [
+        { "text": "🗺️ မြေပုံကြည့်မယ်", "next_scene": "map_1" },
+        { "text": "❓ မေးခွန်းဖြေမယ်", "next_scene": "quiz_1" }
+      ]
+    },
+    {
+      "id": "map_1",
+      "type": "map",
+      "subtitle": "သွားချင်တဲ့ နေရာကို ရွေးပါ",
+      "nodes": [
+        { "label": "🌲 တောအုပ်", "x": 30, "y": 50, "next_scene": "c01_s03" },
+        { "label": "🏠 ရွာ", "x": 70, "y": 40, "next_scene": "quiz_1" }
+      ]
+    },
+    {
+      "id": "c01_s03",
+      "character": "villager",
+      "video_file": "https://host-a.example.com/c01/s03.mp4",
+      "subtitle": "ရွာသူကြီးက စကားပြောတယ်။",
+      "next_scene": "quiz_1"
+    },
+    {
+      "id": "quiz_1",
+      "type": "quiz",
+      "question": "ရွာသူကြီး ပြောတာ ဘာလဲ?",
+      "options": ["က. ပထမ", "ခ. ဒုတိယ", "ဂ. တတိယ", "ဃ. စတုတ္ထ"],
+      "answer": 2,
+      "reward_jigsaw": "p1:1",
+      "hint": "တတိယ ရွေးချယ်စရာကို ကြည့်ပါ။",
+      "next_scene": "ch1_end"
+    },
+    {
+      "id": "ch1_end",
+      "type": "chapter_end",
+      "subtitle": "အခန်း ၁ ပြီးဆုံးပါပြီ။",
+      "next_scene": "ch2_start"
+    },
+    {
+      "id": "ch2_start",
+      "type": "chapter_title",
+      "subtitle": "အခန်း ၂",
+      "next_scene": "c02_s01"
+    },
+    {
+      "id": "c02_s01",
+      "character": "narrator",
+      "video_file": "https://host-a.example.com/c02/s01.mp4",
+      "subtitle": "ဇာတ်လမ်း ဆက်ပါမယ်။"
+    }
   ]
 }
