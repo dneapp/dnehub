@@ -1,4 +1,8 @@
 {
+
+"video_base": "story/",
+"video_enc": false,
+
   "characters": [
     { "id": "narrator", "name": "ဇာတ်ကြောင်းပြောသူ", "color": "#00BFFF" },
     { "id": "villager", "name": "ရွာသူကြီး", "color": "#FFD700" }
@@ -7,6 +11,9 @@
     { "id": "ch1", "title": "အခန်း ၁ - စူးစမ်းရှာဖွေမှု", "start": "ch1_start" }
   ],
   "scenes": [
+
+   { "id": "c01_s01", "video_file": "c01/s01.mp4", "subtitle": "...", "next_scene": "c01_s02" },
+
     {
       "id": "ch1_start",
       "type": "chapter_title",
